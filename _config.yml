@@ -15,8 +15,8 @@ markdown: kramdown
 highlighter: rouge
 
 # Pagination
-paginate: 15
-paginate_path: "/home/page:num/"
+#paginate: 15
+#paginate_path: "/home/page:num/"
 
 
 collections:
