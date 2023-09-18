@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Project
+title: Analyzing the Doppler Free Saturation Spectroscopy of Rubidium using Python
 description: a project that redirects to another website
 img: /img/Rb_thumb.jpg
 #redirect: https://unsplash.com
 ---
-
-# Analyzing the Doppler Free Saturation Spectroscopy of Rubidium using Python
 
 Rubidium(Rb) is part of the alkali metals and has atomic number 37. Alkali elements are characterized by a closed shell configuration of the inner electrons and a single valence electron which gives them a ”hydrogen-like” structure and properties.
 
