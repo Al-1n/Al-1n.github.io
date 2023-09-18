@@ -10,12 +10,11 @@ Rubidium(Rb) is part of the alkali metals and has atomic number 37. Alkali eleme
 
 
 <div style='text-align: center;' class='img_row'>
-    <img class='col three' src='{{ site.baseurl }}/img/Rb5.jpeg' alt='' title='example image'/>
+    <img class='col two' src='{{ site.baseurl }}/img/Rb5.jpeg' alt='' title='example image'/>
 </div>
-<div class='col three caption'>
+<div class='col two caption'>
     Image credit <a href='https://commons.wikimedia.org/wiki/User:Dnn87'>Dnn87</a>. This file is licensed under the <a href='https://en.wikipedia.org/wiki/en:Creative_Commons'>Creative Commons</a> <a href='https://creativecommons.org/licenses/by/3.0/deed.en'>Attribution 3.0 Unported</a> license.
 </div>
-
 
 
 The data for this study were collected in an actual lab setting.
@@ -25,9 +24,9 @@ The quantization of angular momentum has important implications for the energy l
 To detect the fine and hyperfine splitting of energy levels by spectroscopy, we can use a spectrometer to measure the spectrum of the atom or molecule of interest. A spectrometer is an instrument that measures the wavelength or frequency of electromagnetic radiation.
 
 <div style='text-align: center;' class='img_row'>
-    <img class='col three' src='{{ site.baseurl }}/img/Rb.jpeg' alt='' title='example image'/>
+    <img class='col two' src='{{ site.baseurl }}/img/Rb.jpeg' alt='' title='example image'/>
 </div>
-<div class='col three caption'>
+<div class='col two caption'>
     Actual image from the experiment showing the laser beam passing through the rubidium cell. 
 </div>
 
@@ -38,9 +37,9 @@ The fine and hyperfine splitting of energy levels can be detected by measuring t
 To measure the spectrum of the emitted photons, we can use a spectrometer. The spectrometer will separate the photons into different wavelengths, and we can then measure the intensity of the photons at each wavelength. The resulting spectrum will show multiple peaks at different wavelengths, corresponding to the different fine and hyperfine structure components of the spectral line.
 
 <div style='text-align: center;' class='img_row'>
-    <img class='col three' src='{{ site.baseurl }}/img/fine_peaks.png' alt='' title='example image'/>
+    <img class='col two' src='{{ site.baseurl }}/img/fine_peaks.png' alt='' title='example image'/>
 </div>
-<div class='col three caption'>
+<div class='col two caption'>
     The Gaussian fit to the Doppler broadened signal showing the frequency separation between the Rubidium-87 F=1 and F=2 levels. 
 </div>
 
