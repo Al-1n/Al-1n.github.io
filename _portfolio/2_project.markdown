@@ -13,8 +13,9 @@ Rubidium(Rb) is part of the alkali metals and has atomic number 37. Alkali eleme
     <img class='col three' src='{{ site.baseurl }}/img/Rb5.jpeg' alt='' title='example image'/>
 </div>
 <div class='col three caption'>
-    Image credit [Dnn87](https://commons.wikimedia.org/wiki/User:Dnn87). This file is licensed under the [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons) [Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/deed.en) license.
+    Image credit <a href='https://commons.wikimedia.org/wiki/User:Dnn87'>Dnn87</a>. This file is licensed under the <a href='https://en.wikipedia.org/wiki/en:Creative_Commons'>Creative Commons</a> <a href='https://creativecommons.org/licenses/by/3.0/deed.en'>Attribution 3.0 Unported</a> license.
 </div>
+
 
 
 The data for this study were collected in an actual lab setting.
