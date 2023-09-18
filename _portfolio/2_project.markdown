@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Analyzing the Doppler Free Saturation Spectroscopy of Rubidium using Python
-description: a project that redirects to another website
-img: /img/Rb_thumb.jpg
+title: Rubidium DFFS with Python
+description: Analyzing the Doppler Free Saturation Spectroscopy of Rubidium using Python
+img: /img/Rb.jpeg
 #redirect: https://unsplash.com
 ---
 
