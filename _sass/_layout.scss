@@ -225,8 +225,8 @@ width: 100%; /* Ensure images don't exceed the thumbnail width */
 height: 100%; /* Ensure images don't exceed the thumbnail height */
 display: none;
 position: absolute;
-top: -5;
-left: -5;
+top: 5;
+left: 5;
 bottom: 0;
 right: 0;
 background: rgba(0,0,0,0.4);
