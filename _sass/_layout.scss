@@ -214,10 +214,12 @@ padding: 40px;
 }
 
 .thumbnail a{
-float: left;
 position: relative;
 width: 230px;
 height: 230px;
+margin: 0 auto;
+left: 0;
+top: 0;
 }
 
 .thumbnail a span {
