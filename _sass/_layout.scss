@@ -93,7 +93,7 @@ width:100%;
  * Pagination   **********************************************************
  */
 .pagination{
-max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 2));
+max-width: -webkit-calc(900px - (#{$horizontal-spacing-unit} * 2));
 text-align: center;
 width: 100%;
 position: fixed;
@@ -189,7 +189,7 @@ clear: both;
 }
 .project {
 width: 256px;
-height: 230px;
+height: 256px;
 float: left;
 vertical-align: middle;
 box-sizing: border-box;
@@ -216,11 +216,13 @@ padding: 40px;
 .thumbnail a{
 float: right;
 position: relative;
-width: 230px;
+width: 256px;
 /*height: 230px;*/
 }
 
 .thumbnail a span {
+max-width: 100%; /* Ensure images don't exceed the thumbnail width */
+max-height: 100%; /* Ensure images don't exceed the thumbnail height */
 display: none;
 position: absolute;
 top: 0;
