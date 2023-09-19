@@ -221,12 +221,12 @@ width: 256px;
 }
 
 .thumbnail a span {
-width: 100%; /* Ensure images don't exceed the thumbnail width */
-height: 100%; /* Ensure images don't exceed the thumbnail height */
+width: 256px; /* Ensure images don't exceed the thumbnail width */
+height: 256px; /* Ensure images don't exceed the thumbnail height */
 display: none;
 position: absolute;
-top: 5;
-left: 5;
+top: 0;
+left: 0;
 bottom: 0;
 right: 0;
 background: rgba(0,0,0,0.4);
