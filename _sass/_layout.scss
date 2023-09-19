@@ -216,7 +216,7 @@ padding: 40px;
 .thumbnail a{
 float: right;
 position: relative;
-width: 230px;
+width: 256px;
 height: 256px;
 }
 
@@ -235,6 +235,9 @@ text-align: center;
 }
 .thumbnail a:hover span {
 display: inline-block;
+position: relative;
+width: 256px;
+height: 256px;
 }
 /** 
  * Portfolio pages **********************************************************
