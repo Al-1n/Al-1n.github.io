@@ -217,10 +217,6 @@ padding: 40px;
 position: relative;
 width: 230px;
 height: 230px;
-margin: 0 auto;
-left: 0;
-top: 0;
-padding: 20px;
 }
 
 .thumbnail a span {
@@ -232,7 +228,7 @@ bottom: 0;
 right: 0;
 background: rgba(0,0,0,0.4);
 color: $grey-color-light;
-padding: 20px;
+padding: 60px;
 text-align: center;
 }
 .thumbnail a:hover span {
