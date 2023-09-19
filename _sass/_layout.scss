@@ -214,9 +214,9 @@ padding: 40px;
 }
 
 .thumbnail a{
-position: absolute;
-max-width: 230px;
-max-height: 230px;
+position: relative;
+width: 230px;
+height: 230px;
 margin: 0 auto;
 overflow: hidden;
 top: 0;
