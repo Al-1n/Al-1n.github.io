@@ -223,7 +223,7 @@ height: 256px;
 .thumbnail a span {
 float: center;
 display: none;
-position: absolute;
+position: static;
 top: 0;
 left: 0;
 bottom: 0;
@@ -236,6 +236,7 @@ text-align: center;
 .thumbnail a:hover span {
 float: right;
 display: table-cell;
+position: static;
 max-width: 66.66%; /* Ensure images don't exceed the thumbnail width */
 max-height: 66.66%; /* Ensure images don't exceed the thumbnail height */
 }
