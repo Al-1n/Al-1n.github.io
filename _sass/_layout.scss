@@ -207,7 +207,7 @@ padding: 40px;
   max-height: 100%; /* Ensure images don't exceed the thumbnail height */
   display: table-cell; /* Remove any default inline spacing */
   margin: 0 auto; /* Center the image horizontally */
-  position: relative;
+  position: static;
   top: 0;
   padding: 40px;
   
@@ -215,7 +215,7 @@ padding: 40px;
 
 .thumbnail a{
 float: right;
-position: relative;
+position: static;
 width: 256px;
 height: 256px;
 }
