@@ -182,7 +182,7 @@ font-size: 42px;
 .clearfix:before,
 .clearfix:after {
 content: " ";
-display: grid;
+display: table;
 }
 .clearfix:after {
 clear: both;
@@ -230,13 +230,13 @@ bottom: 0;
 right: 0;
 background: rgba(0,0,0,0.4);
 color: $grey-color-light;
-padding: 40px;
+padding: 20px;
 text-align: center;
 }
 .thumbnail a:hover span {
-display: contents;
-max-width: 100%; /* Ensure images don't exceed the thumbnail width */
-max-height: 100%; /* Ensure images don't exceed the thumbnail height */
+display: table-cell;
+max-width: 66.66%; /* Ensure images don't exceed the thumbnail width */
+max-height: 66.66%; /* Ensure images don't exceed the thumbnail height */
 }
 /** 
  * Portfolio pages **********************************************************
