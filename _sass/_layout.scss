@@ -199,7 +199,7 @@ padding: 40px;
   width: 256px;
   height: 256px;
   overflow: hidden;
-  text-align: center; /* Center contents horizontally */
+  /*text-align: center;*/ /* Center contents horizontally */
 }
 
 .thumbnail img {
@@ -223,7 +223,7 @@ height: 256px;
 .thumbnail a span {
 /*float: center;*/
 display: none;
-position: relative;
+position: absolute;
 top: 0;
 left: 0;
 bottom: 0;
