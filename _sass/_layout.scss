@@ -214,16 +214,16 @@ padding: 40px;
 }
 
 .thumbnail a{
-float: right;
+/*float: right;*/
 position: static;
 width: 256px;
 height: 256px;
 }
 
 .thumbnail a span {
-float: center;
+/*float: center;*/
 display: none;
-position: static;
+position: relative;
 top: 0;
 left: 0;
 bottom: 0;
@@ -234,7 +234,7 @@ padding: 20px;
 text-align: center;
 }
 .thumbnail a:hover span {
-float: right;
+/*float: right;*/
 display: table-cell;
 position: static;
 max-width: 66.66%; /* Ensure images don't exceed the thumbnail width */
