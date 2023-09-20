@@ -196,7 +196,7 @@ box-sizing: border-box;
 padding: 40px;
 }
 .thumbnail {
-  width: 256px;
+  width: 100%;
   height: 256px;
   overflow: hidden;
   text-align: center; /* Center contents horizontally */
@@ -205,9 +205,9 @@ padding: 40px;
 .thumbnail img {
   max-width: 100%; /* Ensure images don't exceed the thumbnail width */
   max-height: 100%; /* Ensure images don't exceed the thumbnail height */
-  display: table-cell; /* Remove any default inline spacing */
+  display: block; /* Remove any default inline spacing */
   margin: 0 auto; /* Center the image horizontally */
-  position: static;
+  position: relative;
   top: 0;
   padding: 40px;
   
