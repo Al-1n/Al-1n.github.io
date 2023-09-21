@@ -222,7 +222,7 @@ padding: 40px;
 
 .thumbnail a span {
   display: none;
-  position: absolute;
+  position: relative;
   top: 0;
   left: 0;
   bottom: 0;
@@ -235,8 +235,8 @@ padding: 40px;
 
 .thumbnail a:hover span {
   /* Remove the following property */
-  /* position: fixed; */
-  position: absolute;
+  /* position: absolute; */
+  position: relative;
   display: block;
   top: 0;
   left: 0;
@@ -244,8 +244,6 @@ padding: 40px;
   bottom: 0;
   margin: auto;
 }
-
-
 
 
 /** 
