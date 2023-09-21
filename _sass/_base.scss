@@ -18,7 +18,7 @@ $vertical-spacing-unit:         40px;
 $nav-height:                    56px;
 
 /* portfolio tinkering */
-$img_spacing: 15px; 
+$img_spacing: 10px; 
 $img_height: 256px;
 $caption_font_size: 12px;
 $caption_color: #aaa;
@@ -90,7 +90,7 @@ figure > img {
 
 figcaption {
     font-size: $small-font-size;
-    float: center;
+    text-align: center;
 }
 
 
