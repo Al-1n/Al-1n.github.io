@@ -234,9 +234,11 @@ padding: 20px;
 text-align: center;
 }
 .thumbnail a:hover span {
-float: right;
+/*float: right;*/
 display: block;
-/*position: fixed;*/
+position: fixed;
+top: 0;
+left: 0; 
 max-width: 66.66%; /* Ensure images don't exceed the thumbnail width */
 max-height: 66.66%; /* Ensure images don't exceed the thumbnail height */
 }
