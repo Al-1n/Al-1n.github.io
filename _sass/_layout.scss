@@ -213,41 +213,40 @@ padding: 40px;
   
 }
 
-.thumbnail a{
-float: right;
-position: relative;
-width: 230px;
-height: 230px;
+.thumbnail a {
+  float: right;
+  position: relative;
+  width: 230px;
+  height: 230px;
 }
 
 .thumbnail a span {
-/*float: center;*/
-display: none;
-position: absolute;
-top: 0;
-left: 0;
-bottom: 0;
-right: 0;
-background: rgba(0,0,0,0.4);
-color: $grey-color-light;
-padding: 20px;
-text-align: center;
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: rgba(0,0,0,0.4);
+  color: $grey-color-light;
+  padding: 20px;
+  text-align: center;
 }
-.thumbnail a:hover span {
-/*float: right;*/
-max-width: 66.66%; /* Ensure images don't exceed the thumbnail width */
-max-height: 66.66%; /* Ensure images don't exceed the thumbnail height */
-display: block;
-position: fixed;
-visibility: visible;
-top: 0;
-left: 0;
-right:0;
-bottom:0;
-margin: auto;
-z-index: 200; 
 
+.thumbnail a:hover span {
+  /* Remove or update the following properties */
+  /* max-width: 66.66%; */
+  /* max-height: 66.66%; */
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
 }
+
+
 /** 
  * Portfolio pages **********************************************************
 */
