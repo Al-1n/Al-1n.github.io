@@ -202,12 +202,15 @@ padding: 10px;
   padding: 40px;
 }
 .thumbnail img {
-  max-width: 100%;
+  /*max-width: 100%;*/
+  width: 500px;
   height: auto;
- /* display: block; */
-  margin: 0 auto;
+  /* display: block; */
+  /*margin: 0 auto;*/
   position: relative;
-  top: 0;
+  left: -25%;
+  top: -5%;
+  /*top: 0;*/
   /* Remove the following property */
   /* padding: 40px; */
 }
@@ -228,22 +231,22 @@ padding: 10px;
   right: 0;
   background: rgba(0,0,0,0.4);
   color: $grey-color-light;
-  padding: 20px;
+  padding: 40px;
   text-align: center;
 }
 
 .thumbnail a:hover span {
-  position: relative;
+ /* position: relative; */
   display: block;
+/**  
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
   margin: auto;
-  z-index: 200; /* Set the z-index to a higher value than the thumbnail image */
+  z-index: 200; */ /* Set the z-index to a higher value than the thumbnail image */
+
 }
-
-
 
 /** 
  * Portfolio pages **********************************************************
