@@ -204,7 +204,7 @@ overflow: hidden;
 width: 255px;
 height: 255px;
 position: absolute;
-left: -25%;
+left: -10%;
 top: -5%;
 }
 .thumbnail a{
@@ -216,8 +216,8 @@ height: 255px;
 .thumbnail a span {
 display: none;
 position: absolute;
-top: 0;
-left: 0;
+top: -5%;
+left: -10%;
 bottom: 0;
 right: 0;
 background: rgba(0,0,0,0.4);
