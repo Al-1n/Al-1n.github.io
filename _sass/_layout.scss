@@ -196,10 +196,9 @@ box-sizing: border-box;
 padding: 10px;
 }
 .thumbnail{
-width: 100%;
+width: 255px;
 height: 255px;
 overflow: hidden;
-padding: 40px;
 }
 .thumbnail img{
 width: 255px;
@@ -213,7 +212,7 @@ right: 0;
 .thumbnail a{
 float: left;
 position: relative;
-width: 100%;
+width: 255px;
 height: 255px;
 }
 .thumbnail a span {
