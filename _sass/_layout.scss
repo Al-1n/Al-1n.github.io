@@ -193,12 +193,13 @@ height: 250px;
 float: left;
 vertical-align: middle;
 box-sizing: border-box;
-padding: 30px;
+padding: 10px;
 }
 .thumbnail{
 width: 230px;
 height: 230px;
 overflow: hidden;
+padding: 15px;
 }
 .thumbnail img{
 width: 295px;
@@ -227,6 +228,7 @@ text-align: center;
 }
 .thumbnail a:hover span {
 display: block;
+padding: 15px;
 }
 
 /** 
