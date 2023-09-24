@@ -182,7 +182,7 @@ font-size: 42px;
 .clearfix:before,
 .clearfix:after {
 content: " ";
-display: table;
+display: grid;
 }
 .clearfix:after {
 clear: both;
