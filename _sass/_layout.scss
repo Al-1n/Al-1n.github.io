@@ -206,14 +206,14 @@ font-size: 42px;
 .thumbnail img {
   width: 100%;
   height: auto;
-  left: 0; /* Remove left positioning */
+  left: -35%; /* Remove left positioning */
   top: -5%; /* Remove top positioning */
 }
 .thumbnail a {
   float: left;
   position: relative;
   width: 95%;
-  height: 99%;  
+  height: auto;  
   max-width: 100%; /* Ensure it doesn't exceed the container width */
   max-height: 100%;
 }
