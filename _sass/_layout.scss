@@ -197,13 +197,13 @@ font-size: 42px;
 }
 .thumbnail {
   width: 230px;
-  height: 239px;
+  height: 230px;
   max-width: 100%; /* Ensure it doesn't exceed the container width */
   overflow: hidden;
   position: relative; /* Change to relative positioning */
 }
 .thumbnail img {
-  width: 100%;
+  width: 230px;
   height: auto;
   left: -35%; /* Remove left positioning */
   top: -5%; /* Remove top positioning */
