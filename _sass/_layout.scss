@@ -197,6 +197,7 @@ font-size: 42px;
 }
 .thumbnail {
   width: 230px;
+  height: 230px;
   max-width: 100%; /* Ensure it doesn't exceed the container width */
   overflow: hidden;
   position: relative; /* Change to relative positioning */
@@ -210,7 +211,7 @@ font-size: 42px;
 .thumbnail a {
   float: left;
   position: relative;
-  width: 95%;
+  width: 95%;  
   max-width: 100%; /* Ensure it doesn't exceed the container width */
 }
 .thumbnail a span {
