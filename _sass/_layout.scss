@@ -173,7 +173,6 @@ display: block;
 font-size: 42px;
 }
 
-
 /** 
  * Portfolio grid **********************************************************
 */
@@ -181,57 +180,56 @@ font-size: 42px;
 // http://nicolasgallagher.com/micro-clearfix-hack/
 .clearfix:before,
 .clearfix:after {
-  content: " ";
-  display: grid;
+content: " ";
+display: grid;
 }
 .clearfix:after {
-  clear: both;
+clear: both;
 }
 .project {
-  width: 33.33%;
-  height: auto; /* Remove fixed height to adapt to content */
-  float: left;
-  vertical-align: middle;
-  box-sizing: border-box;
-  padding: 10px;
+width: 33.33%;
+height: 250px;
+float: left;
+vertical-align: middle;
+box-sizing: border-box;
+padding: 10px;
 }
-.thumbnail {
-  width: 230px;
-  height: 230px;
-  max-width: 100%; /* Ensure it doesn't exceed the container width */
-  overflow: hidden;
-  position: relative; /* Change to relative positioning */
+.thumbnail{
+width: 230px;
+height: 230px;
+overflow: hidden;
+position: relative;
 }
-.thumbnail img {
-  width: 230px;
-  height: auto;
-  left: -35%; /* Remove left positioning */
-  top: -5%; /* Remove top positioning */
-  position: relative;
+.thumbnail img{
+width: 295px;
+height: auto;
+position: absolute;
+left: -35%;
+top: -5%;
 }
-.thumbnail a {
-  float: left;
-  position: relative;
-  width: 95%;
-  height: 230px;
-  /*max-width: 100%; /* Ensure it doesn't exceed the container width */
+.thumbnail a{
+float: left;
+position: relative;
+width: 95%;
+height: 230px;
 }
 .thumbnail a span {
-  display: none;
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  background: rgba(0, 0, 0, 0.4);
-  color: $grey-color-light;
-  padding: 25px;
-  text-align: center;
+display: none;
+position: absolute;
+top: 0;
+left: 0;
+bottom: 0;
+right: 0;
+background: rgba(0,0,0,0.4);
+color: $grey-color-light;
+padding: 22px;
+text-align: center;
 }
 .thumbnail a:hover span {
-  display: inherit;
-  position: absolute;
+display: inherit;
+position: absolute;
 }
+
 
 
 /** 
