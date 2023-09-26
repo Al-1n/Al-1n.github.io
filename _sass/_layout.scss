@@ -211,9 +211,8 @@ font-size: 42px;
 }
 .thumbnail a {
   float: left;
-  position: relative;
+  position: absolute;
   width: 95%;
-  height: auto;  
   max-width: 100%; /* Ensure it doesn't exceed the container width */
   max-height: 100%;
 }
