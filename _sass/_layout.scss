@@ -188,7 +188,7 @@ clear: both;
 }
 .project {
 width: 33.33%;
-height: 250px;
+height: auto;
 float: left;
 vertical-align: middle;
 box-sizing: border-box;
@@ -203,9 +203,9 @@ position: relative;
 .thumbnail img{
 width: 295px;
 height: auto;
-/*position: absolute;
-left: -35%;
-top: -5%; */
+position: relative;
+left: -25%;
+top: -5%; 
 }
 .thumbnail a{
 float: left;
