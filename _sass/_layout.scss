@@ -205,8 +205,8 @@ font-size: 42px;
 .thumbnail img {
   width: 100%;
   height: auto;
-  left: 0; /* Remove left positioning */
-  top: 0; /* Remove top positioning */
+  left: -35%; /* Remove left positioning */
+  top: -5%; /* Remove top positioning */
   position: relative;
 }
 .thumbnail a {
