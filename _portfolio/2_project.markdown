@@ -3,8 +3,22 @@ layout: post
 title: DFFS with Python
 description: Analyzing the Doppler Free Saturation Spectroscopy of Rubidium using Python
 img: /img/Rb_thumb.jpeg
-#redirect: https://unsplash.com
 ---
+
+---
+~ ~ ~
+*About the project*
+
+![](/img/python_icon.png)
+
+This repository includes the Python code used to analyze the data collected in an actual lab experiment where lasers were used to excite the atoms in a Rubidium vapor cell in ordeer to resolve features of the atomic structure.
+
+==Link to the project files: == [](https://github.com/Al-1n/DFFS)
+==Full scientific report: == [](https://github.com/Al-1n/DFFS/blob/main/SatSpec_Revision2_Scientific_Paper.pdf)
+~ ~ ~
+---
+
+# Background
 
 Rubidium(Rb) is part of the alkali metals and has atomic number 37. Alkali elements are characterized by a closed shell configuration of the inner electrons and a single valence electron which gives them a ”hydrogen-like” structure and properties.
 
@@ -16,8 +30,6 @@ Rubidium(Rb) is part of the alkali metals and has atomic number 37. Alkali eleme
     Image credit <a href='https://commons.wikimedia.org/wiki/User:Dnn87'>Dnn87</a>. This file is licensed under the <a href='https://en.wikipedia.org/wiki/en:Creative_Commons'>Creative Commons</a> <a href='https://creativecommons.org/licenses/by/3.0/deed.en'>Attribution 3.0 Unported</a> license.
 </div>
 
-
-The data for this study were collected in an actual lab setting.
 
 The quantization of angular momentum has important implications for the energy levels of the hydrogen atom. For example, the energy levels of the hydrogen atom are split into multiple sublevels due to the different possible values of the electron's orbital angular momentum and spin angular momentum. This splitting of the energy levels is known as the fine structure of the hydrogen atom.
 
