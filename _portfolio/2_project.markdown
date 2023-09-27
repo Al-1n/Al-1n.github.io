@@ -19,6 +19,23 @@ This repository includes the Python code used to analyze the data collected in a
 
 `Full scientific report:`  <https://github.com/Al-1n/DFFS/blob/main/SatSpec_Revision2_Scientific_Paper.pdf>
 
+<div class="warning" style='background-color:#E9D8FD; color: #69337A; border-radius: 4px; padding:0.7em;'>
+<span>
+<p style='margin-top:1em; text-align:left'>
+<b>About the project</b></p>
+<img src="/img/python_icon.png">
+<p style='margin-left:1em;'>
+
+This repository includes the Python code used to analyze the data collected in an actual lab experiment where lasers were used to excite the atoms in a Rubidium vapor cell in order to resolve features of the atomic structure.<br><br>
+
+<mark>Link to the project files:</mark>  <https://github.com/Al-1n/DFFS>
+
+<mark>Full scientific report:</mark>  <https://github.com/Al-1n/DFFS/blob/main/SatSpec_Revision2_Scientific_Paper.pdf>
+</p>
+<p style='margin-bottom:1em; margin-right:1em; text-align:right; font-family:Georgia'> <b>- Gary Provost</b> <i>(100 Ways to Improve Your Writing, 1985)</i>
+</p></span>
+</div>
+
 # Background
 
 Rubidium(Rb) is part of the alkali metals and has atomic number 37. Alkali elements are characterized by a closed shell configuration of the inner electrons and a single valence electron which gives them a ”hydrogen-like” structure and properties.
