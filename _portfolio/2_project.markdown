@@ -17,10 +17,11 @@ This repository includes the Python code used to analyze the data collected in a
 
 <mark>Link to the project files:</mark>  [](https://github.com/Al-1n/DFFS)
 
-<mark>Full scientific report:</mark>  [](https://github.com/Al-1n/DFFS/blob/main/SatSpec_Revision2_Scientific_Paper.pdf)
+`Full scientific report:`  [](https://github.com/Al-1n/DFFS/blob/main/SatSpec_Revision2_Scientific_Paper.pdf)
 
 # Background
 
+# 
 Rubidium(Rb) is part of the alkali metals and has atomic number 37. Alkali elements are characterized by a closed shell configuration of the inner electrons and a single valence electron which gives them a ”hydrogen-like” structure and properties.
 
 
