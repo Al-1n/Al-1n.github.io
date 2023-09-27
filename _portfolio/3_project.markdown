@@ -2,7 +2,7 @@
 layout: post
 title: SpaceX Launch Records
 description: Catching Up in the Space Race
-img: /img/spacex1.jpg
+img: /img/spacex1_thumb.jpg
 #redirect: https://github.com/Al-1n/IBM_SpaceX_Capstone/tree/master
 ---
 
