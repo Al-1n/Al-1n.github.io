@@ -15,9 +15,9 @@ This repository includes the Python code used to analyze the data collected in a
 
 ---
 
-<mark>Link to the project files:</mark>  [](https://github.com/Al-1n/DFFS)
+<mark>Link to the project files:</mark>  <https://github.com/Al-1n/DFFS>
 
-`Full scientific report:`  [](https://github.com/Al-1n/DFFS/blob/main/SatSpec_Revision2_Scientific_Paper.pdf)
+`Full scientific report:`  <https://github.com/Al-1n/DFFS/blob/main/SatSpec_Revision2_Scientific_Paper.pdf>
 
 # Background
 
