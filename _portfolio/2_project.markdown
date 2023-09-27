@@ -5,8 +5,6 @@ description: Analyzing the Doppler Free Saturation Spectroscopy of Rubidium usin
 img: /img/Rb_thumb.jpeg
 ---
 
----
-
 ```
 
 **About the project**
@@ -20,8 +18,6 @@ This repository includes the Python code used to analyze the data collected in a
 <mark>Full scientific report:</mark> [](https://github.com/Al-1n/DFFS/blob/main/SatSpec_Revision2_Scientific_Paper.pdf)
 
 ```
-
----
 
 # Background
 
