@@ -21,8 +21,12 @@ This repository includes the Python code used to analyze the data collected in a
 
 ---
 
+<br/>
+
 # Background
-        
+
+<br/>       
+
 Rubidium(Rb) is part of the alkali metals and has atomic number 37. Alkali elements are characterized by a closed shell configuration of the inner electrons and a single valence electron which gives them a ”hydrogen-like” structure and properties.
 
 
@@ -45,7 +49,7 @@ To detect the fine and hyperfine splitting of energy levels, we can use a spectr
     Actual image from the experiment showing the laser beam passing through the rubidium cell. 
 </div>
 
-When an atom or molecule absorbs a photon of energy, it can be excited to a higher energy level. When the atom or molecule then decays back to a lower energy level, it emits a photon of energy. The wavelength or frequency of the emitted photon is characteristic to the energy difference between the two energy levels.
+When an atom or molecule absorbs a photon of energy, it can be excited to a higher energy level. When the atom or molecule decays back to a lower energy level, it emits a photon of energy. The wavelength or frequency of the emitted photon is characteristic to the energy difference between the two energy levels.
 
 However, due to the fine and hyperfine splitting of the energy levels, the emitted photon can have multiple wavelengths.
 
