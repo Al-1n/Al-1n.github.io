@@ -24,9 +24,7 @@ This repository includes the Python code used to analyze the data collected in a
 <br/>
 
 # Background
-
-<br/>       
-
+<br/>  
 Rubidium(Rb) is part of the alkali metals and has atomic number 37. Alkali elements are characterized by a closed shell configuration of the inner electrons and a single valence electron which gives them a ”hydrogen-like” structure and properties.
 
 
@@ -36,8 +34,7 @@ Rubidium(Rb) is part of the alkali metals and has atomic number 37. Alkali eleme
 <div class='col two caption'>
     Image credit <a href='https://commons.wikimedia.org/wiki/User:Dnn87'>Dnn87</a>. This file is licensed under the <a href='https://en.wikipedia.org/wiki/en:Creative_Commons'>Creative Commons</a> <a href='https://creativecommons.org/licenses/by/3.0/deed.en'>Attribution 3.0 Unported</a> license.
 </div>
-
-
+<br/>       
 The quantization of angular momentum has important implications for the energy levels of the hydrogen atom. For example, the energy levels of the hydrogen atom are split into multiple sublevels due to the different possible values of the electron's orbital angular momentum and spin angular momentum. This splitting of the energy levels is known as the fine structure of the hydrogen atom.
 
 To detect the fine and hyperfine splitting of energy levels, we can use a spectrometer to measure the wavelength or frequency of electromagnetic radiation produced during transitions between energy levels.
@@ -48,7 +45,7 @@ To detect the fine and hyperfine splitting of energy levels, we can use a spectr
 <div class='col two caption'>
     Actual image from the experiment showing the laser beam passing through the rubidium cell. 
 </div>
-
+<br/>       
 When an atom or molecule absorbs a photon of energy, it can be excited to a higher energy level. When the atom or molecule decays back to a lower energy level, it emits a photon of energy. The wavelength or frequency of the emitted photon is characteristic to the energy difference between the two energy levels.
 
 However, due to the fine and hyperfine splitting of the energy levels, the emitted photon can have multiple wavelengths.
