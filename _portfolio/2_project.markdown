@@ -11,7 +11,7 @@ img: /img/Rb_thumb.jpeg
 
 ![](/img/python_icon.png)
 
-This repository includes the Python code used to analyze the data collected in an actual lab experiment where lasers were used to excite the atoms in a Rubidium vapor cell in order to resolve features of the atomic structure.
+This repository includes the Python code used to analyze the data collected in an actual lab experiment. In this quantum mechanics experiment laser pulses were used to excite the atoms in a vapor cell in order to resolve features of the atomic structure of Rubidium.
 
 ---
 
@@ -36,7 +36,7 @@ Rubidium(Rb) is part of the alkali metals and has atomic number 37. Alkali eleme
 
 The quantization of angular momentum has important implications for the energy levels of the hydrogen atom. For example, the energy levels of the hydrogen atom are split into multiple sublevels due to the different possible values of the electron's orbital angular momentum and spin angular momentum. This splitting of the energy levels is known as the fine structure of the hydrogen atom.
 
-To detect the fine and hyperfine splitting of energy levels by spectroscopy, we can use a spectrometer to measure the spectrum of the atom or molecule of interest. A spectrometer is an instrument that measures the wavelength or frequency of electromagnetic radiation.
+To detect the fine and hyperfine splitting of energy levels, we can use a spectrometer to measure the wavelength or frequency of electromagnetic radiation produced during transitions between energy levels.
 
 <div style='text-align: center;' class='img_row'>
     <img class='col two' src='{{ site.baseurl }}/img/Rb.jpeg' alt='' title='example image'/>
@@ -45,11 +45,11 @@ To detect the fine and hyperfine splitting of energy levels by spectroscopy, we 
     Actual image from the experiment showing the laser beam passing through the rubidium cell. 
 </div>
 
-When an atom or molecule absorbs a photon of energy, it can be excited to a higher energy level. When the atom or molecule then decays back to a lower energy level, it emits a photon of energy. The wavelength or frequency of the emitted photon is characteristic of the energy difference between the two energy levels.
+When an atom or molecule absorbs a photon of energy, it can be excited to a higher energy level. When the atom or molecule then decays back to a lower energy level, it emits a photon of energy. The wavelength or frequency of the emitted photon is characteristic to the energy difference between the two energy levels.
 
-The fine and hyperfine splitting of energy levels can be detected by measuring the spectrum of the emitted photons. For example, if we excite a hydrogen atom to a higher energy level, it will emit a photon of energy when it decays back to the ground state. However, due to the fine and hyperfine splitting of the energy levels, the emitted photon can have multiple different wavelengths.
+However, due to the fine and hyperfine splitting of the energy levels, the emitted photon can have multiple wavelengths.
 
-To measure the spectrum of the emitted photons, we can use a spectrometer. The spectrometer will separate the photons into different wavelengths, and we can then measure the intensity of the photons at each wavelength. The resulting spectrum will show multiple peaks at different wavelengths, corresponding to the different fine and hyperfine structure components of the spectral line.
+Using the spectrometer we can measure the intensity of the photons at each wavelength. The resulting spectrum will have different peaks corresponding to each wavelength. First, the fine structure can be analyzed by locating and measuring the distance between peaks. Next, by applying a counter-propagating laser beam to reduce the absorption rate of the initial probe, the hyperfine structure will be revealed by the appearance of dips corresponding to transitions from the ground state to the hyperfine levels of the excited state.
 
 <div style='text-align: center;' class='img_row'>
     <img class='col two' src='{{ site.baseurl }}/img/fine_peaks.png' alt='' title='example image'/>
