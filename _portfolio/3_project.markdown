@@ -30,15 +30,15 @@ As the space economy continues to soar, with Bank of America projecting a stagge
 Using the tools of Data Science, this project aims to unravel key facets of SpaceX's business model, offering insights that potential competitors can leverage in their pursuit of challenging SpaceX's dominance in the industry.
 
 <div style='text-align: center;' class='img_row'>
-    <img class='col two' src='{{ site.baseurl }}/img/spacex2.jpg' alt='' title='example image'/>
+    <img class='col two' src='{{ site.baseurl }}/img/spacex2.jpg' alt=''/>
 </div>
 <div class='col two caption'>
     Image credit <a href='https://commons.wikimedia.org/wiki/User:Dnn87'>Dnn87</a>. This file is licensed under the <a href='https://en.wikipedia.org/wiki/en:Creative_Commons'>Creative Commons</a> <a href='https://creativecommons.org/licenses/by/3.0/deed.en'>Attribution 3.0 Unported</a> license.
 </div>
 <br/>  
 
-# Some of the insights drawn from the analysis  
-   
+## Some of the insights drawn from the analysis  
+<br/>   
 From the analysis of the flight density for each launch site it was established that the bulk of the
 SpaceX missions are handled at Florida sites with the Cape Canaveral SLC-40 site at the lead followed
 by the Kennedy Space Center.
@@ -59,21 +59,29 @@ By analyzing the payload mass range specific to each orbit we deduced that GTO h
 range (between 3000 and 7000 Kg) while ISS has the widest range of payloads. The highest payloads,
 corresponding to VLEO orbits might also be explained by the higher capacity of the latest boosters.
 
-<div style='text-align: center;' class='img_row'>
-    <img class='col two' src='{{ site.baseurl }}/img/global_detail_Florida.png' alt='' title='example image'/>
-</div>
-<div class='col two caption'>
-    Actual image from the experiment showing the laser beam passing through the rubidium cell. 
-</div>
-<br/>       
+
 ## Summary of other insights
+<br/>
 (for a full discussion check the full report following the link above)
+<br/>
 
 * The yearly trend for Falcon 9 booster landing success shows improvement from 2013 to 2020 due to ongoing technology enhancements.
 * SpaceX had four unique launch locations, with two referring to the same Cape Canaveral location.
 * NASA was SpaceX's main customer during early test flights, emphasizing reusability as a goal.
 * For early LEO missions, payloads were notably lighter than the rocket's specifications.
 * Flight 20 marked the first true landing of a first-stage Falcon 9 booster.
+
+<div style='text-align: center;' class='img_row'>
+    <img class='col two' src='{{ site.baseurl }}/img/global_detail_Florida.png' alt=''/>
+    <img class='col two' src='{{ site.baseurl }}/img/spacex3.jpg' alt=''/>
+</div>
+<div class='col three caption'>
+    Detail showing the Kennedy LC and Cape Canaveral SLC launch sites in Florida. 
+</div>
+<br/>       
+
+## More insights
+
 * Identifying booster names for specific payload ranges highlighted technological advancements in Falcon 9 rockets.
 * SpaceX attempted to land only 70% of missions, warranting further investigation into factors influencing landing opportunities.
 * Block 5 boosters offer the highest payload capacity.
@@ -82,10 +90,11 @@ corresponding to VLEO orbits might also be explained by the higher capacity of t
 * Decision Tree models demonstrated the highest predictive accuracy among classification models, with future developments benefiting from new data.
 
 <div style='text-align: center;' class='img_row'>
-    <img class='col two' src='{{ site.baseurl }}/img/Confusion.png' alt='' title='example image'/>
+    <img class='col two' src='{{ site.baseurl }}/img/Confusion.png' alt=''/>
+    <img class='col two' src='{{ site.baseurl }}/img/spacex4.jpg' alt=''/>
 </div>
 <div class='col two caption'>
-    The Gaussian fit to the Doppler broadened signal showing the frequency separation between the Rubidium-87 F=1 and F=2 levels. 
+    Evaluation of the highest performing classification model. 
 </div>
 
 
