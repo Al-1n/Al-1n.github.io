@@ -66,9 +66,13 @@ corresponding to VLEO orbits might also be explained by the higher capacity of t
 <br/>
 
 * The yearly trend for Falcon 9 booster landing success shows improvement from 2013 to 2020 due to ongoing technology enhancements.
+
 * SpaceX had four unique launch locations, with two referring to the same Cape Canaveral location.
+
 * NASA was SpaceX's main customer during early test flights, emphasizing reusability as a goal.
+
 * For early LEO missions, payloads were notably lighter than the rocket's specifications.
+
 * Flight 20 marked the first true landing of a first-stage Falcon 9 booster.
 
 <div style='text-align: center;' class='img_row'>
@@ -82,10 +86,15 @@ corresponding to VLEO orbits might also be explained by the higher capacity of t
 ### More insights...
 <br/>
 * Identifying booster names for specific payload ranges highlighted technological advancements in Falcon 9 rockets.
+
 * SpaceX attempted to land only 70% of missions, warranting further investigation into factors influencing landing opportunities.
+
 * Block 5 boosters offer the highest payload capacity.
+
 * Drone ship landings were more frequent in early flights, possibly due to safety concerns.
+
 * Proximity analysis underscored the importance of site location near the Equator for launch efficiency and proximity to large bodies of water for safety.
+
 * Decision Tree models demonstrated the highest predictive accuracy among classification models, with future developments benefiting from new data.
 
 <div style='text-align: center;' class='img_row'>
