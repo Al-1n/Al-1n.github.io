@@ -37,7 +37,7 @@ Using the tools of Data Science, this project aims to unravel key facets of Spac
 </div>
 <br/>  
 
-## Some of the insights drawn from the analysis  
+### Some of the insights drawn from the analysis  
 <br/>   
 From the analysis of the flight density for each launch site it was established that the bulk of the
 SpaceX missions are handled at Florida sites with the Cape Canaveral SLC-40 site at the lead followed
@@ -59,8 +59,8 @@ By analyzing the payload mass range specific to each orbit we deduced that GTO h
 range (between 3000 and 7000 Kg) while ISS has the widest range of payloads. The highest payloads,
 corresponding to VLEO orbits might also be explained by the higher capacity of the latest boosters.
 
-
-## Summary of other insights
+<br/>
+### Summary of other insights
 <br/>
 (for a full discussion check the full report following the link above)
 <br/>
@@ -72,16 +72,15 @@ corresponding to VLEO orbits might also be explained by the higher capacity of t
 * Flight 20 marked the first true landing of a first-stage Falcon 9 booster.
 
 <div style='text-align: center;' class='img_row'>
-    <img class='col two' src='{{ site.baseurl }}/img/global_detail_Florida.png' alt=''/>
-    <img class='col two' src='{{ site.baseurl }}/img/spacex3.jpg' alt=''/>
+    <img class='col two' src='{{ site.baseurl }}/img/global_detail_Florida.png' alt=''/>    
 </div>
 <div class='col three caption'>
     Detail showing the Kennedy LC and Cape Canaveral SLC launch sites in Florida. 
 </div>
 <br/>       
 
-## More insights
-
+### More insights...
+<br/>
 * Identifying booster names for specific payload ranges highlighted technological advancements in Falcon 9 rockets.
 * SpaceX attempted to land only 70% of missions, warranting further investigation into factors influencing landing opportunities.
 * Block 5 boosters offer the highest payload capacity.
@@ -90,8 +89,7 @@ corresponding to VLEO orbits might also be explained by the higher capacity of t
 * Decision Tree models demonstrated the highest predictive accuracy among classification models, with future developments benefiting from new data.
 
 <div style='text-align: center;' class='img_row'>
-    <img class='col two' src='{{ site.baseurl }}/img/Confusion.png' alt=''/>
-    <img class='col two' src='{{ site.baseurl }}/img/spacex4.jpg' alt=''/>
+    <img class='col two' src='{{ site.baseurl }}/img/Confusion.png' alt=''/>    
 </div>
 <div class='col two caption'>
     Evaluation of the highest performing classification model. 
