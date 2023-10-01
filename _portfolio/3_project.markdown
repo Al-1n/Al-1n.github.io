@@ -15,6 +15,31 @@ In this project, we utilize Data Science tools to analyze and map the critical c
 
 `Link to the project files:` <a href="https://github.com/Al-1n/IBM_SpaceX_Capstone/tree/master">SpaceX Launch Records</a> 
 
+
+<html>
+  
+<head>  
+     
+    <style>
+        img {
+            vertical-align: middle;
+        }
+    </style>
+</head>
+  
+<body>
+    <span>
+        Full report:
+    </span>
+    <img src=
+"/img/spacex5.png"
+            width="50" alt="">
+             
+    
+</body>
+  
+</html>
+
 `Full report:`   [![](/img/spacex5.png)](https://github.com/Al-1n/IBM_SpaceX_Capstone/blob/master/SpaceX_Capstone_Project_Final_Report.pdf) 
 
 ---
