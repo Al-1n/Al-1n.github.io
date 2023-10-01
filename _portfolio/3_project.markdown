@@ -37,15 +37,13 @@ In this project, we utilize Data Science tools to analyze and map the critical c
     <span>
         Full report:
     </span>
-    <a target="_blank" href="paris.jpg">
+    <a target="_blank" href="https://github.com/Al-1n/IBM_SpaceX_Capstone/blob/master/SpaceX_Capstone_Project_Final_Report.pdf">
       <img src="/img/spacex5.png" alt="" style="width:230px">
     </a>  
     
 </body>
   
 </html>
-
-`Full report:`   [![](/img/spacex5.png)](https://github.com/Al-1n/IBM_SpaceX_Capstone/blob/master/SpaceX_Capstone_Project_Final_Report.pdf) 
 
 ---
 
