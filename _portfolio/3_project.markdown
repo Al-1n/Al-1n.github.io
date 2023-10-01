@@ -25,8 +25,7 @@ In this project, we utilize Data Science tools to analyze and map the critical c
             vertical-align: middle;
             border: 1px solid #ddd;
             border-radius: 4px;
-            padding: 5px;
-            width: 150px;
+            padding: 5px;            
         }
         img:hover {
             box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
@@ -37,7 +36,7 @@ In this project, we utilize Data Science tools to analyze and map the critical c
     <span>
         Full report:
     </span>
-    <a target="_blank" href="https://github.com/Al-1n/IBM_SpaceX_Capstone/blob/master/SpaceX_Capstone_Project_Final_Report.pdf">
+    <a target="_blank" href="https://https://github.com/Al-1n/IBM_SpaceX_Capstone/blob/master/SpaceX_Final_Report.pdf">
       <img src="/img/spacex5.png" alt="" style="width:230px">
     </a>  
     
