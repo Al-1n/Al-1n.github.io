@@ -23,7 +23,13 @@ In this project, we utilize Data Science tools to analyze and map the critical c
     <style>
         img {
             vertical-align: middle;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            padding: 5px;
+            width: 150px;
         }
+        img:hover {
+            box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
     </style>
 </head>
   
@@ -31,10 +37,9 @@ In this project, we utilize Data Science tools to analyze and map the critical c
     <span>
         Full report:
     </span>
-    <img src=
-"/img/spacex5.png"
-            width="50" alt="">
-             
+    <a target="_blank" href="paris.jpg">
+      <img src="/img/spacex5.png" alt="" style="width:230px">
+    </a>  
     
 </body>
   
