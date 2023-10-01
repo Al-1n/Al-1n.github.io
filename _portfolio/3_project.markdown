@@ -15,17 +15,17 @@ In this project, we utilize Data Science tools to analyze and map the critical c
 
 `Link to the project files:` <a href="https://github.com/Al-1n/IBM_SpaceX_Capstone/tree/master">SpaceX Launch Records</a> 
 
-`Full report:` [![](/img/spacex5.png)](https://github.com/Al-1n/IBM_SpaceX_Capstone/blob/master/SpaceX_Capstone_Project_Final_Report.pdf) 
+`Full report:`   [![](/img/spacex5.png)](https://github.com/Al-1n/IBM_SpaceX_Capstone/blob/master/SpaceX_Capstone_Project_Final_Report.pdf) 
 
 ---
 
-The project workflow and most of the code were authored by <a href="https://www.linkedin.com/in/joseph-s-50398b136/?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDS0321ENSkillsNetwork26802033-2021-01-01">Joseph Santarcangelo</a> for the IBM Data Science Certification Capstone Project. 
+The project workflow and most of the code in the project notebooks were authored by <a href="https://www.linkedin.com/in/joseph-s-50398b136/?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDS0321ENSkillsNetwork26802033-2021-01-01">Joseph Santarcangelo</a>, <a href="https://www.linkedin.com/in/yan-luo-96288783/?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDS0321ENSkillsNetwork26802033-2021-01-01">Yan Luo</a>, <a href="https://www.linkedin.com/in/nayefaboutayoun/?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDS0321ENSkillsNetwork26802033-2021-01-01">Nayef Abou Tayoun</a>, and Lakshmi Holla for the IBM Data Science Certification Capstone Project. 
 
 The project was organized into labs, with each lab corresponding to a step in a typical data science project lifecycle. The program participant was responsible for completing tasks, conducting analysis, and writing the final report.
 
 You can read my comprehensive 67-page project report, which combines both technical and non-technical styles to describe each project step and discuss numerous insights from the data analysis, by following this link: <a href="https://github.com/Al-1n/IBM_SpaceX_Capstone/blob/master/SpaceX_Capstone_Project_Final_Report.pdf">Full report</a>. 
 
-Copyright © 2021 IBM Corporation. All rights reserved.
+<a href="https://www.linkedin.com/in/alin-airinei/">Alin Airinei</a>
 
 ---
 
