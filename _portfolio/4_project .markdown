@@ -1,56 +1,74 @@
 ---
 layout: post
-title: SpaceX Launch Records
-description: Catching Up in the Space Race
-img: /img/spacex1.jpg
-#redirect: https://github.com/Al-1n/IBM_SpaceX_Capstone/tree/master
+title: Compton
+description: Compton Scattering of gamma ray photons from low and high density metals
+img: /img/CGRO.jpg
+
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+**About the project**
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
+![](/img/python_icon.png) ![](/img/jupyter_icon.png)
 
-	---
-	layout: post
-	title: SpaceX Launch Records
-	description: Catching Up in the Space Race
-	img: /img/12.jpg
-	---
+This repository contains code for the analysis of data from an actual quantum mechanics experiment. The experiment utilized a monoenergetic gamma-ray source (Cs-137) and a photomultiplier detector to investigate the angle-dependent energy shift of scattered photons. This investigation provides a practical approach to determining the rest mass of the electron experimentally.
 
+---
 
-<div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
+# Data
+
+<br/>
+These data sets were collected at Stony Brook University by Nikhil Kumar, Xueqi Li, Edwin Ramillo and Makoto Tsuneto.
+<br/>
+
+# Background
+
+<br/>
+Compton's experiment marked a revolutionary turning point in the understanding of physics, as it not only confirmed Albert Einstein's 1905 proposal of energy quantization but also provided compelling evidence for the particle nature of light.
+
+<br/>
+
+<p align="center">
+  <img src="/img/Time_Cover_Arthur_H_Compton.jpg" alt="">
+  <br>
+  <em>Arthur H. Compton</em>
+</p>
+
+<br/>  
+
+In his seminal 1923 paper on the quantum theory of light scattering, A.H. Compton challenged the classical Thomson model of wave-matter interaction. He argued that the observed wavelength shift, resulting from the scattering of energetic X-rays or gamma rays by weakly bound electrons, could be better explained by considering a particle-like interaction between the incident 'radiation quantum' and the electron. This interaction caused the electron to recoil, leading to a frequency shift that resulted in the emission of a lower-energy photon. The energy difference was transferred to the electron, showcasing the dual nature of light as both waves and particles.
+
+For his groundbreaking work, Arthur H. Compton was awarded the Nobel Prize in 1927 for his contributions to the understanding of X-rays. Later in his career, Compton played a pivotal role in the development of the Manhattan Project, a top-secret research and development project during World War II that led to the creation of the atomic bomb.
+
+<br/>
+
+<div align="center">
+  <img src="/img/Alvarez_and_Compton.jpeg" alt="" style="max-width:100%; height:auto;">
 </div>
-<div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic. 
+<div align="center">
+  <p style="width: 400px;"><em>Arthur H. Compton and his doctoral student, Luis Walter Alvarez, in 1933. Decades later, Alvarez and his son would become prominent advocates of the asteroid impact hypothesis, proposing that it was an asteroid impact that led to the extinction of the dinosaurs.Currently, the Alvarez hypothesis has been confirmed and is the mainstream theory of the K-Pg extinction event.</em></p>
 </div>
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
 
+<br/>   
 
-<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+# Results
 
+<br/>
+
+The results align with the particle theory of light, demonstrating that the energy difference between the scattered and incident rays is directly proportional to the energy of the electron. A comparison of these findings with the Compton model reveals a rest mass value for the electron that reasonably agrees with the accepted value.
+
+For more information read the full report by following the link: <a href="https://github.com/Al-1n/Compton/blob/main/Compton_Paper.pdf">The Angular Dependence of Compton Scattering Cross-section Ratios of Cu and Al</a>. 
+
+<a href="https://www.linkedin.com/in/alin-airinei/">Alin Airinei</a>
+
+<br/>
+
+<p align="center">
+  <img src="/img/Cs_137.png" alt="">
+  <br>
+  <em>Uncalibrated Cs-137 spectrum, showing the leading 
+Ba X-ray peak, the Pb X-ray, backscatter, Compton edge,
+and the photopeak at 661.657 keV.</em> 
+</p>
 
 <br/><br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
-
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>
