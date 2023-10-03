@@ -27,11 +27,12 @@ Compton's experiment marked a revolutionary turning point in the understanding o
 
 <br/>
 
-<p align="center">
-  <img src="/img/Time_Cover_Arthur_H_Compton.jpg" alt="">
-  <br>
-  <em>Arthur H. Compton</em>
-</p>
+<div style='text-align: center;' class='img_row'>
+    <img class='col two' src='{{ site.baseurl }}/img/Time_Cover_Arthur_H_Compton.jpg' alt=''/>    
+</div>
+<div class='col two caption'>
+    Arthur H. Compton 
+</div>
 
 <br/>  
 
@@ -41,13 +42,12 @@ For his groundbreaking work, Arthur H. Compton was awarded the Nobel Prize in 19
 
 <br/>
 
-<div align="center">
-  <img src="/img/Alvarez_and_Compton.jpeg" alt="" style="max-width:100%; height:auto;">
+<div style='text-align: center;' class='img_row'>
+    <img class='col two' src='{{ site.baseurl }}/img/Alvarez_and_Compton.jpeg' alt=''/>    
 </div>
-<div align="center">
-  <p style="width: 400px;"><em>Arthur H. Compton and his doctoral student, Luis Walter Alvarez, in 1933. Decades later, Alvarez and his son would become prominent advocates of the asteroid impact hypothesis, proposing that it was an asteroid impact that led to the extinction of the dinosaurs.Currently, the Alvarez hypothesis has been confirmed and is the mainstream theory of the K-Pg extinction event.</em></p>
+<div class='col two caption'>
+    Arthur H. Compton and his doctoral student, Luis Walter Alvarez, in 1933. Decades later, Alvarez and his son would become prominent advocates of the asteroid impact hypothesis, proposing that it was an asteroid impact that led to the extinction of the dinosaurs.Currently, the Alvarez hypothesis has been confirmed and is the mainstream theory of the K-Pg extinction event. 
 </div>
-
 
 <br/>   
 
@@ -63,12 +63,13 @@ For more information read the full report by following the link: <a href="https:
 
 <br/>
 
-<p align="center">
-  <img src="/img/Cs_137.png" alt="">
-  <br>
-  <em>Uncalibrated Cs-137 spectrum, showing the leading 
+<div style='text-align: center;' class='img_row'>
+    <img class='col two' src='{{ site.baseurl }}/img/Cs_137.png' alt=''/>    
+</div>
+<div class='col two caption'>
+    Uncalibrated Cs-137 spectrum, showing the leading 
 Ba X-ray peak, the Pb X-ray, backscatter, Compton edge,
-and the photopeak at 661.657 keV.</em> 
-</p>
+and the photopeak at 661.657 keV. 
+</div>
 
 <br/><br/><br/>
