@@ -2,7 +2,7 @@
 layout: post
 title: Compton
 description: Compton Scattering of gamma ray photons from low and high density metals
-img: /img/CGRO.jpg
+img: /img/CGRO_thumb.jpg
 
 ---
 
