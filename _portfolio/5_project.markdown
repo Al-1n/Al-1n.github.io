@@ -2,7 +2,7 @@
 layout: post
 title: Employee Attrition Analysis
 description: Interactive Tableau Dashboard
-img: /img/office1.jpg
+img: /img/office1_thumb.jpg
 ---
 
 ---
