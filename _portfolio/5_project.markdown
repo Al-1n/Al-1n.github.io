@@ -51,16 +51,19 @@ The following is a project that uses Tableau to analyze the employee attrition r
 
 <br/>
 
+# Background
+<br/>
+
+The employee attrition dataset currently in use revolves around a fictional software company called Atlas Labs. It was originally presented as a Business Intelligence challenge on Datacamp. If you'd like to explore further details, you can visit the competition page by following this link: [HR Analytics in Tableau](https://app.datacamp.com/learn/competitions/hr-analytics-tableau). Below, you'll discover a summary of the analysis findings.   
+
+<br/>
 
 <div style='text-align: center;' class='img_row'>
     <img class='col two' src='{{ site.baseurl }}/img/attrition_dem.png' alt=''/>
 </div>
 <br/>  
 
-# Background
-<br/>
 
-The current version of the employee attrition dataset is centered around a fictitious software company named Atlas Labs and was posted as a BI challenge on Datacamp. For more information you can follow the link to the competition page: [HR Analytics in Tableau](https://app.datacamp.com/learn/competitions/hr-analytics-tableau).    
 
 ### Summary of insights drawn from the analysis
 <br/>
