@@ -50,7 +50,7 @@ When an atom or molecule absorbs a photon of energy, it can be excited to a high
 
 However, due to the fine and hyperfine splitting of the energy levels, the emitted photon can have multiple wavelengths.
 
-Using the spectrometer we can measure the intensity of the photons at each wavelength. The resulting spectrum will have different peaks corresponding to each wavelength. First, the fine structure can be analyzed by locating and measuring the distance between peaks. Next, by applying a counter-propagating laser beam to reduce the absorption rate of the initial probe, the hyperfine structure will be revealed by the appearance of dips corresponding to transitions from the ground state to the hyperfine levels of the excited state.
+Using a spectrometer we can measure the intensity of the photons at each wavelength. The resulting spectrum will have peaks corresponding to each wavelength. First, the fine structure can be analyzed by locating and measuring the distance between peaks. Next, by applying a counter-propagating laser beam to reduce the absorption rate of the initial probe, the hyperfine structure will be revealed by the appearance of dips corresponding to transitions from the ground state to the hyperfine levels of the excited state.
 
 <div style='text-align: center;' class='img_row'>
     <img class='col two' src='{{ site.baseurl }}/img/fine_peaks.png' alt='' title='example image'/>

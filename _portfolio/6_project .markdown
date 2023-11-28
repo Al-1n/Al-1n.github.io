@@ -5,51 +5,38 @@ description: Testing Niobium Josephson Junctions
 img: /img/supercond3_thumb.png
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+**About the project**
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
+![](/img/python_icon.png) ![](/img/jupyter_icon.png)
 
-	---
-	layout: post
-	title: SpaceX Launch Records
-	description: Catching Up in the Space Race
-	img: /img/12.jpg
-	---
+This repository contains Python code for analyzing data from a real-world quantum mechanics lab experiment. The experiment involved using liquid helium to reduce the temperature of the josephson junction to a level where Cooper pairs propagate with zero resistance. 
 
+---
 
-<div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic. 
-</div>
+`Link to the project files:` <a href="https://github.com/Al-1n/Superconductivity">github.com/Al-1n/DFFS</a> 
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
+`Full scientific report:`  <a href="https://github.com/Al-1n/Superconductivity/blob/main/Superconductivity.pdf">Superconductivity: Nb/AlOx/Nb Josephson Junctions</a>
+
+---
+
+<br/>
+
+# Background
+<br/>  
+
+Most commonly, Josephson junctions are constructed of three layers: two superconducting layers with a barrier layer in between.   
 
 
-<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
+<div style='text-align: center;' class='img_row'>
+    <img class='col two' src='{{ site.baseurl }}/img/junction.png' alt='' title='example image'/>
 </div>
 
+<div class='col two caption'>
+    Schematic view of the cross-section of a NbAl<sub>2</sub>O<sub>3</sub>Nb
+tunneling junction..
+</div>
+<br/>      
+ 
+Josephson junctions offer several advantages for quantum computing applications. Their compact size and scalability enable the fabrication of densely packed qubit arrays, while their inherent coherence and low decoherence rates ensure that quantum information can be maintained for extended periods. Additionally, Josephson junctions can be precisely controlled and coupled using external magnetic fields, facilitating the manipulation and entanglement of qubits.
 
-<br/><br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
-
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>
+Through the phenomenon of superposition, these qubits can exist in multiple states simultaneously, exponentially expanding computational possibilities.
