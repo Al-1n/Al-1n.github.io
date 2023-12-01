@@ -99,7 +99,7 @@ Qubits can be entangled, which means that they are linked together in such a way
 </p>
 <br/>       
 
-## Advantages of Quantum Computers and Superconducting Qubits
+# Advantages of Quantum Computers and Superconducting Qubits
 
 <br/>
 
