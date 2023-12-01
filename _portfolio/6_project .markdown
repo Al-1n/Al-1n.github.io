@@ -60,15 +60,15 @@ One year after Bardeen, Cooper and Schriffer received the Nobel prize for the BC
 
 With respect to the current project the **isotope effect** is particularly significant as we tested a Niobium based junction. Among the pure superconducting elements, Niobium has the highest Tc of 9.25K, as was first measured by Meissner in 1930.
 
-### <ins>BCS Theory</ins>
-
+<ins>**BCS Theory**</ins>
 * **Formation of Cooper Pairs**: BCS theory predicts the existence of Cooper pairs, where electrons with opposite spins form pairs due to electron-phonon interactions.
 * **Flux quantization**: The magnetic flux through a superconducting loop must be quantized in units of the flux quantum, which is defined as hc/2e, where h is Planck's constant, c is the speed of light, and e is the elementary charge.
 * **Energy gap**: There will be an energy gap between the ground state of a superconductor and the excited states. This means that it takes a certain amount of energy to excite an electron from the ground state to an excited state.
 
 
-## Josephson Junctions as candidates for Quantum Qubits 
+# Josephson Junctions as candidates for Quantum Qubits 
 
+<br/>
 A Josephson junction is a type of electrical junction made of two superconductors separated by a thin insulating layer. In a superconductor, electrons flow in pairs called Cooper pairs, and these pairs can tunnel through the thin insulating layer of the Josephson junction. The current through the junction is determined by the difference in the phases of the Cooper pairs on the two sides of the junction.
 
 At low voltages, the current through the Josephson junction is sinusoidal and its amplitude is proportional to the applied voltage. However, at higher voltages, the current becomes nonlinear and exhibits hysteresis. This nonlinearity is due to the inductance of the junction, which is a measure of its ability to store magnetic energy.
@@ -82,7 +82,7 @@ The inductance of the Josephson junction arises from the fact that the Cooper pa
 </p>
 <br/>  
 
-## Binary Representation and Quantum Computing 
+# Binary Representation and Quantum Computing 
 
 <br/>
  
