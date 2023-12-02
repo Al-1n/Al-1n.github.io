@@ -16,8 +16,8 @@ What sets me apart is not just my technical expertise but also a solid foundatio
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="mailto:alin.airinei924@gmail.com"><i class="fa-sharp fa-solid fa-circle-envelope"></i></a>
-	<a href="https://github.com/Al-1n" target="_blank"><i class="fa-brands fa-github"></i></a>
+	<a href="mailto:alin.airinei924@gmail.com"><i class="fa fa-circle-envelope"></i></a>
+	<a href="https://github.com/Al-1n" target="_blank"><i class="fa fa-github"></i></a>
 	<a href="https://www.linkedin.com/in/alin-airinei/" target="_blank"><i class="fa fa-linkedin-square"></i></a>	
 </span>
 
