@@ -21,7 +21,8 @@ This repository contains Python code for analyzing data from a real-world quantu
 * JupyterLab
 * Pandas
 * NumPy
-* lmfit
+* Lmfit
+* Matplotlib
 
 **How to use this project**
 
@@ -35,14 +36,14 @@ In order to adapt the code to new measurements, a basic understanding on how to 
 
 The experiment was performed under the guidance of Dr. Mengkun Liu and Gleb Aminov.
 
-The data collection team included Zachary Kluger, Justin Ao, Jeremy Schleiffer and Alin Airinei. 
+The data collection team included Zachary Kluger, Justin Ao, Jeremy Schleiffer and <a href="https://www.linkedin.com/in/alin-airinei/">Alin Airinei</a>. 
 
 ---
 
 # Background
 <br/>     
 
-This project focuses on testing some of the key predictions of one of the most succsessful  theories in physics: the BCS theory of superconductivity. The theory is named after John Bardeen, Leon Cooper and J. Robert Schrieffer who shared the 1972 NObel Proze in Physics for the discovery of the BCS theory. John Bardeen also shared the 1956 Nobel Prize in Physics for his contribution in the development of the first transistors at Bell Labs.   
+This project focuses on testing some of the key predictions of one of the most succsessful  theories in physics: the BCS theory of superconductivity. The theory is named after John Bardeen, Leon Cooper and J. Robert Schrieffer who shared the 1972 Nobel Proze in Physics for the discovery of the BCS theory. John Bardeen also shared the 1956 Nobel Prize in Physics for his contribution in the development of the first transistors at Bell Labs.   
 
 <p align="center" width="100%">
   <img src="/img/BCS.png" alt=""><br/>

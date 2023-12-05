@@ -19,9 +19,28 @@ This repository contains Python code for analyzing data from a real-world quantu
 
 `Full scientific report:`  <a href="https://github.com/Al-1n/DFFS/blob/main/SatSpec_Revision2_Scientific_Paper.pdf">Doppler Free Saturation Spectroscopy of Rubidium</a>
 
----
+**Requirements**
+* JupyterLab
+* Pandas
+* NumPy
+* Lmfit
+* Matplotlib
 
-<br/>
+**How to use this project**
+
+The code in these files can be adapted and used as a reference for analyzing results of <a href="https://en.wikipedia.org/wiki/Absorption_spectroscopy">laser absorption spectroscopy</a> laser absorption spectroscopy experiments. 
+
+Any environment that can load a python kernel and run jupyter notebooks such as *vs code*, *google collab* or *conda* can be used.
+
+In order to adapt the code to new measurements, a basic understanding on how to place, load and transform the data is required. 
+
+**Contributors**
+
+The experiment was performed under the guidance of Dr. Eric Jones and Kristina Finelli.
+
+The data collection and analysis performed by Zachary Kluger and <a href="https://www.linkedin.com/in/alin-airinei/">Alin Airinei</a>. 
+
+---
 
 # Background
 <br/>  
