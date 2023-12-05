@@ -38,7 +38,7 @@ In order to adapt the code to new measurements, a basic understanding on how to 
 
 The experiment was performed under the guidance of Dr. Eric Jones and Kristina Finelli.
 
-The data collection and analysis performed by Zachary Kluger and <a href="https://www.linkedin.com/in/alin-airinei/">Alin Airinei</a>. 
+Data collection and analysis performed by Zachary Kluger and <a href="https://www.linkedin.com/in/alin-airinei/">Alin Airinei</a>. 
 
 ---
 
