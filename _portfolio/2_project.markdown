@@ -28,7 +28,7 @@ This repository contains Python code for analyzing data from a real-world quantu
 
 **How to use this project**
 
-The code in these files can be adapted and used as a reference for analyzing results of <a href="https://en.wikipedia.org/wiki/Absorption_spectroscopy">laser absorption spectroscopy</a> laser absorption spectroscopy experiments. 
+The code in these files can be adapted and used as a reference for analyzing results of <a href="https://en.wikipedia.org/wiki/Absorption_spectroscopy">laser absorption spectroscopy</a> experiments. 
 
 Any environment that can load a python kernel and run jupyter notebooks such as *vs code*, *google collab* or *conda* can be used.
 
