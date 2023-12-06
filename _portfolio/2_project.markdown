@@ -41,7 +41,7 @@ The experiment was performed under the guidance of Dr. Eric Jones and Kristina F
 Data collection and analysis performed by Zachary Kluger and <a href="https://www.linkedin.com/in/alin-airinei/">Alin Airinei</a>. 
 
 ---
-
+<br/>
 # Background
 <br/>  
 Rubidium(Rb) is part of the alkali metals and has atomic number 37. Alkali elements are characterized by a closed shell configuration of the inner electrons and a single valence electron which gives them a ”hydrogen-like” structure and properties.

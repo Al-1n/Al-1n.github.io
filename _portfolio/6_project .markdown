@@ -39,7 +39,7 @@ The experiment was performed under the guidance of Dr. Mengkun Liu and Gleb Amin
 The data collection team included Zachary Kluger, Justin Ao, Jeremy Schleiffer and <a href="https://www.linkedin.com/in/alin-airinei/">Alin Airinei</a>. 
 
 ---
-
+<br/>
 # Background
 <br/>     
 
