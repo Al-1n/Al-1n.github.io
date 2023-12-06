@@ -36,11 +36,12 @@ In order to adapt the code to new measurements, a basic understanding on how to 
 
 The experiment was performed under the guidance of Dr. Clark McGrew.
 
-The data data was collected at Stony Brook University by Nikhil Kumar, Xueqi Li, Edwin Ramillo and Makoto Tsuneto.
+The data was collected at Stony Brook University by Nikhil Kumar, Xueqi Li, Edwin Ramillo and Makoto Tsuneto.
 
 Data analysis performed by <a href="https://www.linkedin.com/in/alin-airinei/">Alin Airinei</a>. 
 
 ---
+<br/>
 # Background
 
 <br/>
