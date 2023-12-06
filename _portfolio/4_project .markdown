@@ -13,13 +13,34 @@ img: /img/CGRO_thumb.jpg
 This repository contains code for the analysis of data from an actual quantum mechanics experiment. The experiment utilized a monoenergetic gamma-ray source (Cs-137) and a photomultiplier detector to investigate the angle-dependent energy shift of scattered photons. This investigation provides a practical approach to determining the rest mass of the electron experimentally.
 
 ---
+`Link to the project files:` <a href="https://github.com/Al-1n/Compton">github.com/Al-1n/Compton</a> 
 
-# Data
+`Full scientific report:`  <a href="https://github.com/Al-1n/Compton/blob/main/Compton_Paper.pdf">Angular Dependence of gamma rays scattered from a metal target (Compton Scattering)</a>
 
-<br/>
-These data sets were collected at Stony Brook University by Nikhil Kumar, Xueqi Li, Edwin Ramillo and Makoto Tsuneto.
-<br/>
+**Requirements**
+* JupyterLab
+* Pandas
+* NumPy
+* Lmfit
+* Matplotlib
 
+**How to use this project**
+
+The code in these files can be adapted and used as a reference for analyzing data from scattering experiments. 
+
+Any environment that can load a python kernel and run jupyter notebooks such as *vs code*, *google collab* or *conda* can be used.
+
+In order to adapt the code to new measurements, a basic understanding on how to place, load and transform the data is required. 
+
+**Contributors**
+
+The experiment was performed under the guidance of Dr. Clark McGrew.
+
+The data data was collected at Stony Brook University by Nikhil Kumar, Xueqi Li, Edwin Ramillo and Makoto Tsuneto.
+
+Data analysis performed by <a href="https://www.linkedin.com/in/alin-airinei/">Alin Airinei</a>. 
+
+---
 # Background
 
 <br/>
