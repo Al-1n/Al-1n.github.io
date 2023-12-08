@@ -54,53 +54,6 @@ In this project, we utilize Data Science tools to analyze and map the critical c
 
 **Requirements**
 
- <table border="0" cellpadding="0" cellspacing="0">
-            <tr height="16" hidden>
-                <td colspan="16">
-                    JupyterLab
-                </td>
-                <td colspan="16">
-                    Requests                 
-                </td>
-                <td colspan="16">
-                    Pandas
-                </td>
-            </tr>
-            <tr height="16">
-                <td colspan="16">
-                    Numpy
-                </td>
-                <td colspan="16">
-                    Beautiful Soup
-                </td>
-                <td colspan="16">
-                    Matplotlib
-                </td>
-            </tr>
-            <tr height="16" hidden>
-                <td colspan="16">
-                    Seaborn
-                </td>
-                <td colspan="16">
-                    SQLAlchemy                 
-                </td>
-                <td colspan="16">
-                    Ipython-sql
-                </td>
-            </tr>
-            <tr height="16">
-                <td colspan="16">
-                    Folium
-                </td>
-                <td colspan="16">
-                    Wget
-                </td>
-                <td colspan="16">
-                    Scikit-learn
-                </td>
-            </tr>            
-    </table>
-    
  <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -134,9 +87,7 @@ In this project, we utilize Data Science tools to analyze and map the critical c
     <td class="tg-0pky">Scikit-learn</td>    
   </tr>
 </tbody>
-</table>   
-    
-    
+</table>      
 
 <br/>
 
