@@ -101,6 +101,8 @@ In this project, we utilize Data Science tools to analyze and map the critical c
             </tr>            
     </table>
 
+<br/>
+
 **How to use this project**
 
 The project includes a complete implementation of all the steps typically involved in a data analysis machine learning project (data mining, eda and preparation, model selection and fine-tuning). Each section can be used individually or together to build on the given analysis or as a starter for a new machine learning pipeline.  
