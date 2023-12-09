@@ -93,7 +93,7 @@ In this project, we utilize Data Science tools to analyze and map the critical c
 
 **How to use this project**
 
-The project includes a complete implementation of all the steps typically involved in a data analysis machine learning project (data mining, eda and preparation, model selection and fine-tuning). Each section can be used individually or together to build on the given analysis or as a starter for a new machine learning pipeline.  
+The project includes a complete implementation of all the steps typically involved in a data analysis machine learning project (data mining, EDA and preparation, model selection and fine-tuning). Each section can be used individually or together to build on the given analysis or as a starter for a new machine learning pipeline.  
 
 Any environment that can load a python kernel and run jupyter notebooks such as *vs code*, *google collab* or *conda* can be used to run the code once the necessary packages are installed.
 
