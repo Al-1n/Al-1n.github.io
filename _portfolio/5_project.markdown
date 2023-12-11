@@ -47,6 +47,17 @@ The following is a project that uses Tableau to analyze the employee attrition r
 
 <br/>
 
+**Requirements**
+* ![](/img/tableau-public-logo.svg)
+
+
+**How to use this project**
+
+The analysis and dashboard were performed entirely using Tableau Public. There is no repository of project files. The purpose of the project was to teach myself Tableau and showcase what I learned using the interactive dashboard.   
+
+**Contributors**
+
+<a href="https://www.linkedin.com/in/alin-airinei/">Alin Airinei</a>. 
 ---
 
 <br/>
