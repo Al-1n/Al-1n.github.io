@@ -7,7 +7,7 @@ img: /img/meteodash1_thumb.jpg
 
 **About the project**
 
-![](/img/python_icon.png) ![](/img/jupyter_icon.png)
+![](/img/python_icon.png) ![](/img/jupyter_icon.png) ![](/img/folium_logo.png) ![](/img/plotly_icon.png) ![](/img/scipy.png) ![](/img/seaborn.png) ![](/img/streamlit.png)
 
 Explore meteorite landing data hands-on with this interactive app, providing a captivating journey through celestial impacts on Earth.
 
