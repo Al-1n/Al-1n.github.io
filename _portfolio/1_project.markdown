@@ -71,5 +71,33 @@ Explore meteorite landing data hands-on with this interactive app, providing a c
 # Background
 <br/>  
 
+Embark on a captivating journey into the world of meteorites with Meteo Dash, a groundbreaking application designed for the curious minds eager to explore the wonders of meteorite landing data. This interactive platform strikes a perfect balance between the precision of scientific rigor and the accessibility of Wikipedia, offering a unique hands-on experience.
+
+**Key Features:**
+
+**Interactive Data Visualization:** Meteo Dash places data visualization at the forefront, providing an engaging and immersive experience. The dynamic visual representations serve as a gateway to uncovering insights with ease.
+
+**Accessible Explanations:** Say goodbye to information overload. Meteo Dash features expandable explanations seamlessly integrated with each visualization. Dive into the details effortlessly with dropdown containers conveniently placed beneath each graph.
+
+**Concise Bullet Point Format:** We understand the importance of clarity. Explanations are presented in a user-friendly bullet point format, ensuring easy readability and facilitating presentations to diverse audiences.
+
+**User Empowerment:** Meteo Dash empowers users to explore and draw new insights independently. Break free from the confines of pre-determined summaries and forge your path to discovery.
+
+**Breaking Down Fortress Walls:** In the realm of scientific information, there's often a disconnect between researchers and consumers. Meteo Dash bridges this gap by turning traditional information channels into open gateways, allowing curious minds to peer inside the fortress of data.
+
+**Proof of Concept:** Meteo Dash isn't just an application; it's a proof of concept. Tailorable to various subjects, this platform showcases the potential for transforming complex data into a user-friendly and adaptable format.
+
+**Aggregated Data Sources:** Drawing from reputable sources such as NASA, The Meteoritical Society, The NHM Meteorite Catalogue, and the World Bank, Meteo Dash provides a comprehensive overview by combining data from multiple sources.
+
+**Citation Integration:** Rigorous in its approach, Meteo Dash includes in-text references as links, marked by superscript numbers. Citations and additional resources are seamlessly incorporated, providing a robust foundation for the presented data.
+
+**Companion Reading:** For those seeking further insights, Meteo Dash recommends "Systematics and Evaluation of Meteorite Classification" by Weisberg et al. This literature serves as the basis for the adopted classification method, offering an excellent companion for users with varying levels of tolerance for formal scientific literature.
+
+Embark on a meteoric adventure with Meteo Dash - where data comes to life, and exploration knows no bounds.
+
+
+
+
+
 
 
