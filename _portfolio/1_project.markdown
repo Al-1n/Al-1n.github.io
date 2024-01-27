@@ -59,7 +59,8 @@ Explore meteorite landing data hands-on with this interactive app, providing a c
 </table>
       
 <br/>
-**Note**: The data analysis was first performed on the back-end side using jupyter notebooks with the dashboard being the final front-end presentation. Accordingly, some of the requirements apply only to the back-end project and some to the fron-end. If you are interested only in the dashboard, the project includes a 'requirements.txt' file that streamlit will scan and install in the deployment stage. 
+
+> **Note**: The data analysis was first performed on the back-end side using jupyter notebooks with the dashboard being the final front-end presentation. Accordingly, some of the requirements apply only to the back-end project and some to the fron-end. If you are interested only in the dashboard, the project includes a 'requirements.txt' file that streamlit will scan and install in the deployment stage. 
 
 <br/>
 
@@ -73,7 +74,7 @@ Install streamlit and the listed requirements within the environment.
 
 For more information and alternative options for creating an environment check the streamlit documentation: 
 
-### <a href="https://docs.streamlit.io/get-started">Streamlit Docs</a>
+<a href="https://docs.streamlit.io/get-started">Streamlit Docs</a>
 
 To run the dashboard locally, open a terminal and go to the project folder. Activate the newly created environment and run the following command:
 
