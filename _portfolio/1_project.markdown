@@ -114,18 +114,25 @@ Ever wondered what secrets meteorites hold? Meteo Dash lets you explore the fasc
 
 **Go beyond the bullet points.** Meteo Dash empowers you to delve deeper than pre-digested summaries. Explore data yourself, uncover hidden patterns, and draw your own conclusions. It's like having a scientist's notebook in your pocket, ready to spark your curiosity.
 
+<div class="img_row">
+	<img class="col one" src="{{ site.baseurl }}/img/md3.png" alt="" title="meteo-dash3"/>
+	<img class="col one" src="{{ site.baseurl }}/img/md4.png" alt="" title="meteo-dash4"/>	
+</div>
+
 **Aggregated Data Sources.** Drawing from reputable sources such as NASA, The Meteoritical Society, The NHM Meteorite Catalogue, and the World Bank, Meteo Dash provides a comprehensive overview by combining data from multiple sources.
 
 **Citation Integration.** Meteo Dash includes in-text references as links, marked by superscript numbers. The rigor of the chosen citation method is not exactly on par with a scientific paper approach but aims to direct the user to further resources where needed, including scientific papers. 
 
 **Dive deeper, if you dare.** For those seeking further insights, Meteo Dash recommends "Systematics and Evaluation of Meteorite Classification" by Weisberg et al. This serves as the basis for the adopted classification method, offering an excellent companion for users with varying levels of tolerance for formal scientific literature.
 
-**Meteo Dash** is your gateway to scientific discovery. Dive into meteorite origins, compositions, and impacts, understanding the stories they tell us about the universe.
-
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/md5.png" alt="" title="meteo-dash5"/>
 	<img class="col one" src="{{ site.baseurl }}/img/md6.png" alt="" title="meteo-dash6"/>	
 </div>
+
+**Meteo Dash** is your gateway to scientific discovery. Dive into meteorite origins, compositions, and impacts, understanding the stories they tell us about the universe.
+
+
 
 
 
