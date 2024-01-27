@@ -95,6 +95,13 @@ To run the dashboard locally, open a terminal and go to the project folder. Acti
 
 Ever wondered what secrets meteorites hold? Meteo Dash lets you explore the fascinating world of meteorite landings through an interactive data visualization portal, bridging the gap between scientific rigor and accessible discovery through a unique hands-on experience.
 
+<div class="img_row">
+	<img class="col one" src="{{ site.baseurl }}/img/md1.png" alt="" title="meteo-dash1"/>
+	<img class="col one" src="{{ site.baseurl }}/img/md2.png" alt="" title="meteo-dash2"/>
+	<img class="col one" src="{{ site.baseurl }}/img/md3.png" alt="" title="meteo-dash3"/>
+</div>
+
+
 **Key Features:**
 
 **User friendly.** Meteo Dash puts data visualizations front and center, with concise explanations nestled just below, ready to expand at your touch. No distractions, just clear insights at your fingertips. 
