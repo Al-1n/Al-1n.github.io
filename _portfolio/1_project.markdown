@@ -79,6 +79,8 @@ For more information and alternative options for creating an environment check t
 To run the dashboard locally, open a terminal and go to the project folder. Activate the newly created environment and run the following command:
 
  `streamlit run Meteo_Dash.py`
+ 
+ If you just want to explore the notebooks, than you can install the necessary packages in the base environment using pip or conda without the need to create a virtual environment. 
 
 **Proof of Concept.**  Tailorable to various subjects, this platform showcases the potential for transforming complex data into a user-friendly and adaptable format. 
 
@@ -99,12 +101,6 @@ Ever wondered what secrets meteorites hold? Meteo Dash lets you explore the fasc
 	<img class="col one" src="{{ site.baseurl }}/img/md1.png" alt="" title="meteo-dash1"/>
 	<img class="col one" src="{{ site.baseurl }}/img/md2.png" alt="" title="meteo-dash2"/>	
 </div>
-
-<div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/md3.png" alt="" title="meteo-dash3"/>
-	<img class="col one" src="{{ site.baseurl }}/img/md4.png" alt="" title="meteo-dash4"/>	
-</div>
-
 
 **Key Features:**
 
