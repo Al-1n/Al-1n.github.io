@@ -13,7 +13,9 @@ Explore meteorite landing data hands-on with this interactive app, providing a c
 
 ---
 
-`Link to the project files:` <a href="https://github.com/Al-1n/Superconductivity">github.com/Al-1n/Superconductivity</a> 
+`Link to the interactive dashboard:` <a href="https://meteo-dash.streamlit.app">meteo-dash.streamlit.app</a> 
+
+`Link to the project files:` <a href="https://github.com/Al-1n/meteo-dash">github.com/Al-1n/meteo-dash</a> 
 
 **Requirements**
 
@@ -38,7 +40,7 @@ Explore meteorite landing data hands-on with this interactive app, providing a c
   <tr>
     <td class="tg-0pky">Scipy</td>
     <td class="tg-0pky">Hydralit_components</td>
-    <td class="tg-0pky">Plotly</td> 
+    <td class="tg-0pky">Pillow</td> 
     <th class="tg-0pky">Geopy</th>    
   </tr>
   <tr>
@@ -56,9 +58,25 @@ Explore meteorite landing data hands-on with this interactive app, providing a c
 </tbody>
 </table>      
 
+*Note*: The data analysis was first performed on the back-end side using jupyter notebooks with the dashboard being the final front-end presentation. Accordingly, some of the requirements apply only to the back-end project and some to the fron-end. If you are interested only in the dashboard, the project includes a 'requirements.txt' file that streamlit will scan and install in the deployment stage. 
+
 <br/>
 
 **How to use this project**
+
+To get started with the project, first clone the repository onto your local machine.
+
+Next, create a dedicated python environnent using pipenv or conda.
+
+Install streamlit and the listed requirements within the environment.
+
+For more information and alternative options for creating an environment check the streamlit documentation: <a href="https://docs.streamlit.io/get-started">Streamlit Docs</a>
+
+To run the dashboard locally, open a terminal and go to the project folder. Activate the newly created environment and run the following command:
+
+ `streamlit run Meteo_Dash.py`
+
+**Proof of Concept.** Meteo Dash isn't just an application; it's a proof of concept. Tailorable to various subjects, this platform showcases the potential for transforming complex data into a user-friendly and adaptable format. Imagine tracking disease outbreaks, or visualizing economic patterns. The possibilities are endless.
 
 **Contributors**
 
@@ -82,8 +100,6 @@ Ever wondered what secrets meteorites hold? Meteo Dash lets you explore the fasc
 **Go beyond the bullet points.** Meteo Dash empowers you to delve deeper than pre-digested summaries. Explore data yourself, uncover hidden patterns, and draw your own conclusions. It's like having a scientist's notebook in your pocket, ready to spark your curiosity.
 
 **Break free from the information silo.** Forget feeling like you're peeking through arrow slits at scientific knowledge. Meteo Dash throws open the gates, transforming data into an immersive experience. Dive into meteorite origins, compositions, and impacts, understanding the stories they tell us about the universe.
-
-**Proof of Concept.** Meteo Dash isn't just an application; it's a proof of concept. Tailorable to various subjects, this platform showcases the potential for transforming complex data into a user-friendly and adaptable format. Imagine tracking disease outbreaks, or visualizing economic patterns. The possibilities are endless.
 
 **Aggregated Data Sources.** Drawing from reputable sources such as NASA, The Meteoritical Society, The NHM Meteorite Catalogue, and the World Bank, Meteo Dash provides a comprehensive overview by combining data from multiple sources.
 
