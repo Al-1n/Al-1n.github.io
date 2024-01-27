@@ -97,8 +97,12 @@ Ever wondered what secrets meteorites hold? Meteo Dash lets you explore the fasc
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/md1.png" alt="" title="meteo-dash1"/>
-	<img class="col one" src="{{ site.baseurl }}/img/md2.png" alt="" title="meteo-dash2"/>
-	<img class="col one" src="{{ site.baseurl }}/img/md3.png" alt="" title="meteo-dash3"/>
+	<img class="col one" src="{{ site.baseurl }}/img/md2.png" alt="" title="meteo-dash2"/>	
+</div>
+
+<div class="img_row">
+	<img class="col one" src="{{ site.baseurl }}/img/md1.png" alt="" title="meteo-dash3"/>
+	<img class="col one" src="{{ site.baseurl }}/img/md2.png" alt="" title="meteo-dash4"/>	
 </div>
 
 
@@ -118,7 +122,10 @@ Ever wondered what secrets meteorites hold? Meteo Dash lets you explore the fasc
 
 **Meteo Dash** is your gateway to scientific discovery. Dive into meteorite origins, compositions, and impacts, understanding the stories they tell us about the universe.
 
-
+<div class="img_row">
+	<img class="col one" src="{{ site.baseurl }}/img/md1.png" alt="" title="meteo-dash5"/>
+	<img class="col one" src="{{ site.baseurl }}/img/md2.png" alt="" title="meteo-dash6"/>	
+</div>
 
 
 
