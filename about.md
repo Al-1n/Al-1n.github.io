@@ -7,9 +7,9 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-Hello, I'm Alin Airinei, a physics graduate with a profound enthusiasm for working with data. Armed with problem-solving and analytical skills, I bring proficiency in Python and SQL to the table.
+Hello, I'm Alin Airinei, a physics graduate with a passion for data analysis and a strong desire to contribute to meaningful projects.
 
-What sets me apart is not just my technical expertise but also a solid foundation in math and statistics, coupled with a relentless commitment to continuous learning. I approach challenges with the mindset of a lifelong learner, always eager to expand my skills and stay abreast of the latest technologies.
+What sets me apart is not just my foundation in physics and statistics, but also a relentless commitment to continuous learning. I approach challenges with the mindset of a lifelong learner, always eager to expand my skills and stay abreast of the latest technologies.
 
 
 <br/>
