@@ -7,26 +7,29 @@ order: 3
 
 ## **Alin Airinei**
 
+<br/>
 
 #### 11743
+
+<br/>
 
 Email: [alin.airinei924@gmail.com](mailto:alin.airinei924@gmail.com)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  LinkedIn: <https://www.linkedin.com/in/alin-airinei/>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 GitHub: <https://github.com/Al-1n> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Portfolio: <https://al-1n.github.io/portfolio/>
 
-</br>
+<br/>
 
 ### **Summary**
 
-</br>
+<br/>
 
 Physics graduate with a passion for data analysis and a strong desire to contribute to meaningful projects. Proficient in utilizing statistical analysis techniques and modern data visualization tools to derive actionable insights and solve complex problems.
 
-</br>
+<br/>
 
 ### **Education**
 
-</br>
+<br/>
 
 *Bachelor of Science in Physics*, **Stony Brook University**, *2021*
 
@@ -34,11 +37,11 @@ Physics graduate with a passion for data analysis and a strong desire to contrib
 
 *IBM Data Science Professional Certificate*, **Coursera**
 
-</br>
+<br/>
 
 ### **Portfolio Projects**
 
-</br>
+<br/>
 
 **1. Meteo Dash - Interactive Web App**
 
@@ -74,7 +77,7 @@ Physics graduate with a passion for data analysis and a strong desire to contrib
 
 ### **Skills**
 
-</br>
+<br/>
 
 **Technologies:**
 - Programming Languages: Python, SQL
