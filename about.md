@@ -10,7 +10,7 @@ order: 0
 <br/>
 Hello, I'm Alin Airinei, a physics graduate with a passion for data analysis and a strong desire to contribute to meaningful projects.
 
-What sets me apart is not just my foundation in physics, but also a relentless commitment to continuous learning. I approach challenges with the mindset of a lifelong learner, always eager to expand my skills and stay abreast of the latest technologies.
+What sets me apart is a relentless commitment to continuous learning. I approach challenges with the mindset of a lifelong learner, always eager to expand my skills and stay abreast of the latest technologies.
 
 
 <br/>
