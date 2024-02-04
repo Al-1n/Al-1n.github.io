@@ -5,7 +5,7 @@ title: resume
 order: 3
 ---
 
-## **Alin Airinei**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ## **Alin Airinei**
 
 <br/>
 
@@ -33,7 +33,7 @@ Physics graduate with a passion for data analysis and a strong desire to contrib
 
 *Bachelor of Science in Physics*, **Stony Brook University**, *2021*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  • &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  • &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 *IBM Data Science Professional Certificate*, **Coursera**
 
@@ -74,6 +74,8 @@ Physics graduate with a passion for data analysis and a strong desire to contrib
 • Technology Used: Python, Jupyter Lab, Pandas, NumPy, Lmfit, Matplotlib.
 
 [Project Page](https://al-1n.github.io/portfolio/6_project%) \| [Scientific Report](https://github.com/Al-1n/Superconductivity/blob/main/Superconductivity.pdf)
+
+<br/>
 
 ### **Skills**
 
