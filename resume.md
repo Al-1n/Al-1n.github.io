@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: no-title-post
 permalink: /resume/
+title: resume
 order: 3
 ---
 
