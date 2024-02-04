@@ -1,5 +1,5 @@
 ---
-layout: no-title-page
+layout: page
 permalink: /resume/
 title: resume
 order: 3
