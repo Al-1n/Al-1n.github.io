@@ -2,6 +2,7 @@
 layout: page
 title: portfolio
 permalink: /portfolio/
+order: 1
 ---
 
 {% for project in site.portfolio %}
