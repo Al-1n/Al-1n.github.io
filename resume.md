@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: /resume/
-title: resume
 order: 3
 ---
 
@@ -14,17 +13,23 @@ GitHub: <https://github.com/Al-1n> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 
 ### **Summary**
 
+&nbsp;
+
 Physics graduate with a passion for data analysis and a strong desire to contribute to meaningful projects. Proficient in utilizing statistical analysis techniques and modern data visualization tools to derive actionable insights and solve complex problems.
 
 ### **Education**
 
+&nbsp;
+
 *Bachelor of Science in Physics*, **Stony Brook University**, *2021*
 
--
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 *IBM Data Science Professional Certificate*, **Coursera**
 
 ### **Portfolio Projects**
+
+&nbsp;
 
 **1. Meteo Dash - Interactive Web App**
 
@@ -36,7 +41,9 @@ Physics graduate with a passion for data analysis and a strong desire to contrib
 
 • Technology Used: Python, Streamlit, Plotly, Pandas, NumPy, Geopy, Jupyter Lab.
 
-[Interactive Dashboard](<https://meteo-dash.streamlit.app/>) | [Project Page](https://al-1n.github.io/portfolio/1_project/)
+[Interactive Dashboard](<https://meteo-dash.streamlit.app/>) \*|\* [Project Page](https://al-1n.github.io/portfolio/1_project/)
+
+&nbsp;
 
 **2 . SpaceX Launch Records**
 
@@ -46,7 +53,9 @@ Physics graduate with a passion for data analysis and a strong desire to contrib
 
 • Technology Used: Python, SQL, Pandas, Plotly Dash, Beautiful Soup, Scikit-learn, Folium.
 
-[Full Report](https://github.com/Al-1n/IBM_SpaceX_Capstone/blob/main/SpaceX_Final_Report.pdf) | [Project Page](https://al-1n.github.io/portfolio/3_project/)
+[Full Report](https://github.com/Al-1n/IBM_SpaceX_Capstone/blob/main/SpaceX_Final_Report.pdf) \*|\* [Project Page](https://al-1n.github.io/portfolio/3_project/)
+
+&nbsp;
 
 **3. Superconductivity and Quantum Computing**
 
@@ -56,9 +65,13 @@ Physics graduate with a passion for data analysis and a strong desire to contrib
 
 • Technology Used: Python, Jupyter Lab, Pandas, NumPy, Lmfit, Matplotlib.
 
-[Project Page](https://al-1n.github.io/portfolio/6_project%) | [Scientific Report](https://github.com/Al-1n/Superconductivity/blob/main/Superconductivity.pdf)
+[Project Page](https://al-1n.github.io/portfolio/6_project%) \*|\* [Scientific Report](https://github.com/Al-1n/Superconductivity/blob/main/Superconductivity.pdf)
+
+&nbsp;
 
 ### **Skills**
+
+&nbsp;
 
 **Technologies:**
 - Programming Languages: Python, SQL
