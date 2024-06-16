@@ -9,7 +9,7 @@ img: /img/GB_Tuning_Thumb.png
 
 ![](/img/python_icon.png) ![](/img/jupyter_icon.png)
 
-This repository contains Python code for analyzing data from a real-world quantum mechanics experiment. The experiment involved using liquid helium to reduce the temperature of the josephson junction to a level where Cooper pairs propagate with zero resistance. 
+The goal of this project is to compare the performance of three gradient boosting algorithms on a medical diagnosis binary classification task. The emphasis of the comparison was not on speed or computational cost but rather on prediction performance as a result of hyper-parameter and threshold optimization.
 
 ---
 
@@ -92,7 +92,7 @@ Any environment that can load a python kernel and run jupyter notebooks such as 
 # Background
 <br/>     
 
-The goal of this project is to compare the performance of three gradient boosting algorithms on a medical diagnosis binary classification task. The emphasis of the comparison was not on speed or computational cost but rather on prediction performance as a result of hyper-parameter and threshold optimization.
+
 
 
 
