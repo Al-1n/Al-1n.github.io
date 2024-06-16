@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hyperparameter and Threshold Optimization Performance for Gradient Boosting
+title: Boosting Optimization Comparison
 description: Evaluating Hyperopt, Optuna, and TunedThresholdClassifierCV on Gradient Boosting 
 img: /img/GB_Tuning_Thumb.png
 ---
