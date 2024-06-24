@@ -41,8 +41,8 @@ The data collection team included Zachary Kluger, Justin Ao, Jeremy Schleiffer a
 ---
 <br/>
 # Background
-<br/>     
 
+<br/>     
 This project focuses on testing some of the key predictions of one of the most succsessful  theories in physics: the BCS theory of superconductivity. The theory is named after John Bardeen, Leon Cooper and J. Robert Schrieffer who shared the 1972 Nobel Proze in Physics for the discovery of the BCS theory. John Bardeen also shared the 1956 Nobel Prize in Physics for his contribution in the development of the first transistors at Bell Labs.   
 
 <p align="center" width="100%">
@@ -85,8 +85,7 @@ The inductance of the Josephson junction arises from the fact that the Cooper pa
 
 # Binary Representation and Quantum Computing 
 
-<br/>
- 
+<br/> 
 The inductive nonlinearity of the Josephson junction can be used to represent binary information. The two states of the qubit, "0" and "1", can be represented by the two phases of the Cooper pairs in the junction. The "0" state corresponds to a phase difference of 0, while the "1" state corresponds to a phase difference of π.
 
 The state of a qubit can be manipulated by applying a magnetic field to the junction. The strength of the magnetic field determines the phase difference of the Cooper pairs, and thus the state of the qubit.
@@ -103,7 +102,6 @@ Qubits can be entangled, which means that they are linked together in such a way
 # Advantages of Quantum Computers and Superconducting Qubits
 
 <br/>
-
 Quantum computers have several advantages over classical computers. They can solve certain problems that are intractable for classical computers, such as factoring large numbers. They can also be used to simulate complex systems, such as molecules and materials.
 
 Superconducting qubits have several advantages over other qubit candidates. They are relatively easy to fabricate, and they have long coherence times, which means that they can maintain their quantum states for extended periods of time. Additionally, superconducting qubits can be coupled together using external magnetic fields, which facilitates the manipulation and entanglement of qubits.
