@@ -30,41 +30,41 @@ This project compared the performance of three gradient boosting algorithms (XGB
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky">optuna</th>
-    <th class="tg-0pky">hyperopt</th>
-    <th class="tg-0pky">lightgbm</th> 
-    <th class="tg-0pky">catboost</th>    
+    <th class="tg-0pky">Optuna</th>
+    <th class="tg-0pky">Hyperopt</th>
+    <th class="tg-0pky">LightGBM</th> 
+    <th class="tg-0pky">CatBoost</th>    
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">xgboost</td>
-    <td class="tg-0pky">ipywidgets</td>
-    <td class="tg-0pky">imblearn</td> 
-    <th class="tg-0pky">networkx</th>    
+    <td class="tg-0pky">XGBoost</td>
+    <td class="tg-0pky">IpyWidgets</td>
+    <td class="tg-0pky">Imblearn</td> 
+    <th class="tg-0pky">Networkx</th>    
   </tr>
   <tr>
-    <th class="tg-0pky">cloudpickle</th> 
-    <td class="tg-0pky">plotly</td>
-    <td class="tg-0pky">sqlalchemy</td>
-    <td class="tg-0pky">imageio</td>    
+    <th class="tg-0pky">CloudPickle</th> 
+    <td class="tg-0pky">Plotly</td>
+    <td class="tg-0pky">SqlAlchemy</td>
+    <td class="tg-0pky">ImageIO</td>    
   </tr>
   <tr>
     <th class="tg-0pky">PyWavelets</th> 
-    <td class="tg-0pky">tifffile</td>
-    <td class="tg-0pky">pandas</td>
-    <td class="tg-0pky">numpy</td>    
+    <td class="tg-0pky">TiffFile</td>
+    <td class="tg-0pky">Pandas</td>
+    <td class="tg-0pky">Numpy</td>    
   </tr>
   <tr>
-    <th class="tg-0pky">seaborn</th> 
-    <td class="tg-0pky">matplotlib</td>
-    <td class="tg-0pky">math</td>
-    <td class="tg-0pky">sklearn</td>    
+    <th class="tg-0pky">Seaborn</th> 
+    <td class="tg-0pky">Matplotlib</td>
+    <td class="tg-0pky">Math</td>
+    <td class="tg-0pky">Sklearn</td>    
   </tr>
   <tr>
-    <th class="tg-0pky">pygraphviz</th> 
+    <th class="tg-0pky">PyGraphViz</th> 
     <td class="tg-0pky">IPython</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">JupyterLab</td>
     <td class="tg-0pky"></td>    
   </tr>
 </tbody>
