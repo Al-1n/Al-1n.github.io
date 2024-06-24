@@ -86,7 +86,6 @@ Any environment that can load a python kernel and run jupyter notebooks such as 
 
 <br/>    
 # Data and Challenges
-
 <br/>    
 The analysis utilizes a popular sample of the Pima Indians Diabetes Database, which presents several challenges:
 - Small sample size
@@ -96,7 +95,6 @@ The analysis utilizes a popular sample of the Pima Indians Diabetes Database, wh
 To address these, the project employs model-based imputations, synthetic sampling for the minority class, and feature selection to refine the dataset.
 
 # Methods
-
 <br/>   
 **1. Data Preprocessing:**
 
@@ -113,7 +111,6 @@ To address these, the project employs model-based imputations, synthetic samplin
 - Decision threshold optimization with TunedThresholdClassifierCV
  
 # Performance Analysis
-
 <br/>    
 **Recall Performance**
 
@@ -145,7 +142,6 @@ The F1-score balances precision and recall, critical for imbalanced datasets.
 - **CatBoost:** Leading with an AUPRC of 0.65, even at baseline.
 
 # Conclusions
-
 <br/>    
 1. Optimization techniques generally improved model performance across all metrics.
 2. CatBoost demonstrated strong performance even with baseline parameters.
@@ -154,7 +150,6 @@ The F1-score balances precision and recall, critical for imbalanced datasets.
 5. CatBoost consistently outperformed in AUROC and AUPRC, indicating superior overall performance.
   
 # Future Work
-
 <br/>      
 Further testing is recommended to confirm these findings and explore their applicability to other datasets and domains.
 
