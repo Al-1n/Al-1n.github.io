@@ -95,7 +95,7 @@ The analysis utilizes a popular sample of the Pima Indians Diabetes Database, wh
 To address these, the project employs model-based imputations, synthetic sampling for the minority class, and feature selection to refine the dataset.
 
 # Methods
-<br/>   
+&nbsp;
 **1. Data Preprocessing:**
 
 - Model-based imputations using LightGBM
@@ -111,7 +111,7 @@ To address these, the project employs model-based imputations, synthetic samplin
 - Decision threshold optimization with TunedThresholdClassifierCV
  
 # Performance Analysis
-<br/>    
+\ 
 **Recall Performance**
 
 In medical diagnosis, recall (true positive rate) is crucial. Recall scores ranged from 0.64 to 0.89, with significant improvements observed through optimization.
