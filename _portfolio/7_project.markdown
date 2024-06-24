@@ -95,7 +95,7 @@ The analysis utilizes a popular sample of the Pima Indians Diabetes Database, wh
 
 To address these, the project employs model-based imputations, synthetic sampling for the minority class, and feature selection to refine the dataset.
 
-<br/>   
+
 # Methods
 
 <br/>   
@@ -108,14 +108,12 @@ To address these, the project employs model-based imputations, synthetic samplin
 - Feature selection with SelectKBest
 - Class weighting
 
-<br/>   
 **2. Model Training and Optimization:**
 <br/>  
 - Baseline models without optimization
 - Hyperparameter optimization using Optuna and Hyperopt
 - Decision threshold optimization with TunedThresholdClassifierCV
-
-<br/>   
+ 
 # Performance Analysis
 
 <br/>  
@@ -123,25 +121,20 @@ To address these, the project employs model-based imputations, synthetic samplin
 
 <br/>  
 In medical diagnosis, recall (true positive rate) is crucial. Recall scores ranged from 0.64 to 0.89, with significant improvements observed through optimization.
-
-<br/>  
+  
 - **XGBoost:** Highest recall achieved with Opt+Th optimization.
 - **LightGBM:** Similar improvement pattern, with Opt+Th providing the best recall.
 - **CatBoost:** Strong recall even at baseline, with Opt+Th yielding the highest recall.
-
-<br/>  
+ 
 **F1-Score Performance**
 
 <br/>  
 The F1-score balances precision and recall, critical for imbalanced datasets.
 
-<br/>  
-
 - **XGBoost:** Opt+Th optimization significantly improved the F1-score.
 - **LightGBM:** Similar improvement with Opt+Th optimization yielding the highest F1-score.
 - **CatBoost:** Strong baseline performance, with highest F1-score achieved through Opt+Th.
 
-<br/>  
 **AUROC and AUPRC**
 
 <br/>  
@@ -150,7 +143,7 @@ The F1-score balances precision and recall, critical for imbalanced datasets.
 <br/>  
 - **XGBoost and LightGBM:** High AUROC scores (0.78 to 0.83), with Optuna, Opt+Th, and Hyp+Th optimizers achieving the best results.
 - **CatBoost:** Highest AUROC scores, maintaining around 0.83 with optimizations.
-<br/>  
+ 
 **AUPRC (Area Under the Precision-Recall Curve):**
 
 <br/>  
@@ -158,7 +151,6 @@ The F1-score balances precision and recall, critical for imbalanced datasets.
 - **LightGBM:** Highest scores achieved with Optuna and Opt+Th (0.62).
 - **CatBoost:** Leading with an AUPRC of 0.65, even at baseline.
 
-<br/>   
 # Conclusions
 
 <br/>   
