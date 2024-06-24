@@ -87,7 +87,7 @@ Any environment that can load a python kernel and run jupyter notebooks such as 
 <br/>    
 # Data and Challenges
 
-<br/>   
+  
 The analysis utilizes a popular sample of the Pima Indians Diabetes Database, which presents several challenges:
 - Small sample size
 - Numerous missing measurements 
@@ -97,7 +97,7 @@ To address these, the project employs model-based imputations, synthetic samplin
 
 # Methods
 
-<br/>   
+
 **1. Data Preprocessing:**
 
 - Model-based imputations using LightGBM
@@ -114,7 +114,7 @@ To address these, the project employs model-based imputations, synthetic samplin
  
 # Performance Analysis
 
-<br/>  
+ 
 **Recall Performance**
 
 In medical diagnosis, recall (true positive rate) is crucial. Recall scores ranged from 0.64 to 0.89, with significant improvements observed through optimization.
@@ -146,7 +146,7 @@ The F1-score balances precision and recall, critical for imbalanced datasets.
 
 # Conclusions
 
-<br/>   
+ 
 1. Optimization techniques generally improved model performance across all metrics.
 2. CatBoost demonstrated strong performance even with baseline parameters.
 3. XGBoost and LightGBM benefited most from optimization, showing the largest improvements.
@@ -155,7 +155,7 @@ The F1-score balances precision and recall, critical for imbalanced datasets.
   
 # Future Work
 
-<br/>   
+   
 Further testing is recommended to confirm these findings and explore their applicability to other datasets and domains.
 
 <br/>  
