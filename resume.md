@@ -60,7 +60,7 @@ Physics graduate with a passion for data analysis and a strong desire to contrib
 
 • Technology Used: Python, Streamlit, Plotly, Pandas, NumPy, Geopy, Jupyter Lab.
 
-[Interactive Dashboard](<https://meteo-dash.streamlit.app/>) \| [Project Page](https://al-1n.github.io/portfolio/1_project/)
+[Full Report](<https://github.com/Al-1n/Gradient_Boosting_Tuning/blob/main/Docs/GBT_classification_report.pdf>) \| [Project Page](https://al-1n.github.io/portfolio/7_project/)
 
 **2 . SpaceX Launch Records**
 
