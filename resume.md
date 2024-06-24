@@ -46,13 +46,17 @@ Physics graduate with a passion for data analysis and a strong desire to contrib
 
 <br/>
 
-**1. Meteo Dash - Interactive Web App**
+**1. Optimizing Gradient Boosting Models for Medical Diagnosis**
 
-• Explore meteorite landings via an engaging data visualization platform.
+• Compared the performance gains from hyperparameter and threshold tuning with Hyperopt, Optuna, and TunedThresoldClassifierCV on Gradient Boosting.
 
-• Present explanations in a user-friendly manner suitable for diverse audiences.
+• Improved recall in diabetes diagnosis from 0.64 to 0.89 using gradient boosting models with hyperparameter and threshold optimization.
 
-• Combines data from NASA, The Meteoritical Society, the NHM catalog, and the World Bank.
+• Achieved up to 15% increase in F1-scores across XGBoost, LightGBM, and CatBoost models through combined optimization techniques.
+
+• Enhanced AUPRC scores by up to 10.7% for XGBoost and LightGBM models, indicating significant improvement in precision-recall trade-offs for imbalanced data.
+
+• Attained consistent AUROC scores of 0.83 for all three models post-optimization, demonstrating robust classifier performance.
 
 • Technology Used: Python, Streamlit, Plotly, Pandas, NumPy, Geopy, Jupyter Lab.
 
@@ -92,6 +96,6 @@ Physics graduate with a passion for data analysis and a strong desire to contrib
 - Data Modeling: Machine Learning, Lmfit
 
 **Techniques:**
-- Statistical Analysis: Descriptive Statistics, Regression Analysis, Distributions, Time Series Analysis
-- Data Manipulation and Cleaning: Data Mining, Handling Missing Values, Data Wrangling
+- Statistical Analysis: Descriptive Statistics, Regression Analysis, Distributions, Correlation Analysis
+- Data Manipulation and Cleaning: Imputation Techniques, Feature Engineering
 - Data Visualization: Plot Customization, Interactive Dashboards, Maps
