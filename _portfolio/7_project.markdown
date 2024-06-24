@@ -97,6 +97,7 @@ To address these, the project employs model-based imputations, synthetic samplin
 # Methods
 
 &nbsp;
+
 **1. Data Preprocessing:**
 
 - Model-based imputations using LightGBM
@@ -114,6 +115,7 @@ To address these, the project employs model-based imputations, synthetic samplin
 # Performance Analysis
 
 \ 
+
 **Recall Performance**
 
 In medical diagnosis, recall (true positive rate) is crucial. Recall scores ranged from 0.64 to 0.89, with significant improvements observed through optimization.
