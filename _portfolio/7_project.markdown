@@ -46,7 +46,7 @@ This project compared the performance of three gradient boosting algorithms (XGB
   <tr>
     <th class="tg-0pky">CloudPickle</th> 
     <td class="tg-0pky">Plotly</td>
-    <td class="tg-0pky">SqlAlchemy</td>
+    <td class="tg-0pky">SQLAlchemy</td>
     <td class="tg-0pky">ImageIO</td>    
   </tr>
   <tr>
