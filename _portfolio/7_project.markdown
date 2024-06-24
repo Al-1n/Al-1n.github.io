@@ -95,7 +95,7 @@ The analysis utilizes a popular sample of the Pima Indians Diabetes Database, wh
 To address these, the project employs model-based imputations, synthetic sampling for the minority class, and feature selection to refine the dataset.
 
 # Methods
-&nbsp;
+<br/>
 
 **1. Data Preprocessing:**
 
@@ -112,7 +112,7 @@ To address these, the project employs model-based imputations, synthetic samplin
 - Decision threshold optimization with TunedThresholdClassifierCV
  
 # Performance Analysis
-
+<br/>
 
 **Recall Performance**
 
@@ -122,6 +122,13 @@ In medical diagnosis, recall (true positive rate) is crucial. Recall scores rang
 - **LightGBM:** Similar improvement pattern, with Opt+Th providing the best recall.
 - **CatBoost:** Strong recall even at baseline, with Opt+Th yielding the highest recall.
  
+ <p align="center" width="100%">
+  <img src="/img/recall_bar_plot.png" alt=""><br/>
+  <em>The grouped bar graph shows the recall performance of the three gradient boosting models (XGBoost, LightGBM, and CatBoost) across different optimization methods.
+</em> 
+</p>
+<br/>   
+ 
 **F1-Score Performance**
 
 The F1-score balances precision and recall, critical for imbalanced datasets.
@@ -130,6 +137,12 @@ The F1-score balances precision and recall, critical for imbalanced datasets.
 - **LightGBM:** Similar improvement with Opt+Th optimization yielding the highest F1-score.
 - **CatBoost:** Strong baseline performance, with highest F1-score achieved through Opt+Th.
 
+<p align="center" width="100%">
+  <img src="/img/f1_score_bar_plot.png" alt=""><br/>
+  <em>The grouped bar graph shows the F1-score performance of the three gradient boosting models (XGBoost, LightGBM, and CatBoost) across different optimization methods. </em> 
+</p>
+<br/>   
+
 **AUROC and AUPRC**
  
 **AUROC (Area Under the Receiver Operating Characteristic Curve):**
@@ -137,14 +150,28 @@ The F1-score balances precision and recall, critical for imbalanced datasets.
 - **XGBoost and LightGBM:** High AUROC scores (0.78 to 0.83), with Optuna, Opt+Th, and Hyp+Th optimizers achieving the best results.
 - **CatBoost:** Highest AUROC scores, maintaining around 0.83 with optimizations.
  
+ <p align="center" width="100%">
+  <img src="/img/auroc_line_plot.png" alt=""><br/>
+  <em>The line plot shows the AUROC variation across different optimization methods for the three gradient boosting models. </em> 
+</p>
+<br/>   
+ 
 **AUPRC (Area Under the Precision-Recall Curve):**
 
 - **XGBoost:** Scores improved to 0.62 with Optuna and Opt+Th optimizers.
 - **LightGBM:** Highest scores achieved with Optuna and Opt+Th (0.62).
 - **CatBoost:** Leading with an AUPRC of 0.65, even at baseline.
 
+<p align="center" width="100%">
+  <img src="/img/auprc_line_plot.png" alt=""><br/>
+  <em>The line plot shows the AUPRC variation across different optimization methods for the three gradient boosting models.
+ </em> 
+</p>
+<br/>   
+
 # Conclusions
 <br/>    
+
 1. Optimization techniques generally improved model performance across all metrics.
 2. CatBoost demonstrated strong performance even with baseline parameters.
 3. XGBoost and LightGBM benefited most from optimization, showing the largest improvements.
@@ -153,6 +180,7 @@ The F1-score balances precision and recall, critical for imbalanced datasets.
   
 # Future Work
 <br/>      
+
 Further testing is recommended to confirm these findings and explore their applicability to other datasets and domains.
 
 <br/>  
