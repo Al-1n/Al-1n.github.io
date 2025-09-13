@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Meteo Dash
-description: A hands-on meteorite landing data exploration app for curious minds.
+description: A meteorite landing data exploration app for curious minds.
 img: /img/meteodash1_thumb.jpg
 ---
 
@@ -9,7 +9,7 @@ img: /img/meteodash1_thumb.jpg
 
 ![](/img/python_icon.png) ![](/img/jupyter_icon.png) ![](/img/folium_logo.png) ![](/img/plotly_icon.png) ![](/img/scipy.png) ![](/img/seaborn.png) ![](/img/streamlit.png) ![](/img/geopy.png)
 
-Explore meteorite landing data hands-on with this interactive app, providing a captivating journey through celestial impacts on Earth.
+Explore meteorite landing data with an interactive app, providing a captivating journey through celestial impacts on Earth.
 
 ---
 
