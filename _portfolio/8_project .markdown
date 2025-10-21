@@ -13,7 +13,7 @@ This repository contains a curated collection of **Transact-SQL (T-SQL)** script
 Each script demonstrates key SQL Server concepts and operations, from basic querying and joins to more advanced topics like window functions, stored procedures, and common table expressions (CTEs).
 
 ---
-
+<br/>
 `Link to the project files:` <a href="https://github.com/Al-1n/T-SQL">github.com/Al-1n/T-SQL</a> 
 
 
@@ -55,7 +55,7 @@ Each script demonstrates key SQL Server concepts and operations, from basic quer
 <a href="https://www.linkedin.com/in/alin-airinei/">Alin Airinei</a>
 
 ---
-
+<br/>
 
 # Features
 
