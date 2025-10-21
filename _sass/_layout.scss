@@ -1,4 +1,3 @@
-
 /**
  * Site header   **********************************************************
  */
@@ -218,23 +217,55 @@ max-width: 100%;
 
 }
 .thumbnail a span {
-display: none;
-position: absolute;
-top: 0;
-left: 0;
-bottom: 0;
-right: 0;
-background: rgba(0,0,0,0.4);
-color: $grey-color-light;
-padding: 22px;
-text-align: center;
+    /* overlay hidden by default — shown on hover */
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: rgba(0,0,0,0.4);
+    color: $grey-color-light;
+    padding: 22px;
+    text-align: center;
+    box-sizing: border-box;
+
+    /* allow multiple lines and long-word breaks */
+    white-space: normal;
+    word-break: break-word;
+    overflow: auto;
+
+    /* use flex to center content and allow wrapping */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    /* limit overlay max height if needed (optional) */
+    max-height: 100%;
 }
+
+/* show overlay on hover */
 .thumbnail a:hover span {
-display: inherit;
-position: absolute;
+    display: flex;
+    position: absolute;
 }
 
+/* make title and description wrap and use smaller sizes */
+.thumbnail a span h1 {
+    font-size: 16px;      /* reduce if still truncated */
+    line-height: 1.2;
+    margin: 0 0 6px 0;
+    white-space: normal;
+    word-break: break-word;
+    text-overflow: unset;
+}
 
+.thumbnail a span p {
+    font-size: 12px;      /* adjust to taste */
+    margin: 0;
+    white-space: normal;
+}
 
 /** 
  * Portfolio pages **********************************************************
