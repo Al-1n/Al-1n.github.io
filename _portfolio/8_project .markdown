@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-SQL Reference Library – AdventureWorks Edition
+title: T-SQL Reference Library - AdventureWorks Edition
 description: Collection of **Transact-SQL (T-SQL)** reference scripts
 img: /img/Tsql_Thumb.png
 ---
@@ -10,7 +10,8 @@ img: /img/Tsql_Thumb.png
 ![](/img/sql-server_icon.png) 
 
 This repository contains a curated collection of **Transact-SQL (T-SQL)** scripts designed for learning, reference, and practice using the **AdventureWorks** sample database.  
-Each script demonstrates key SQL Server concepts and operations — from basic querying and joins to more advanced topics like window functions, stored procedures, and common table expressions (CTEs).
+Each script demonstrates key SQL Server concepts and operations, from basic querying and joins to more advanced topics like window functions, stored procedures, and common table expressions (CTEs).
+
 ---
 
 `Link to the project files:` <a href="https://github.com/Al-1n/T-SQL">github.com/Al-1n/T-SQL</a> 
@@ -55,7 +56,9 @@ Each script demonstrates key SQL Server concepts and operations — from basic q
 
 ---
 
-## 🚀 Features
+
+# Features
+
 - Organized T-SQL examples by topic (reading data, inserting data, updating data, transactions, stored procedures, etc.)
 - Compatible with **SQL Server** and **VS Code SQL extensions**
 - Tested against the **AdventureWorks** database
