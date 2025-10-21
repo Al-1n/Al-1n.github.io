@@ -63,3 +63,8 @@ Each script demonstrates key SQL Server concepts and operations, from basic quer
 - Tested against the **AdventureWorks** database
 - Ideal for reference, learning, or interview preparation
 
+<p align="center" width="60%">
+  <img src="/img/tsql_sample.png" alt=""><br/>
+  <em>Sample Workspace </em> 
+</p>
+<br/>  
