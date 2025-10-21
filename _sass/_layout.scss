@@ -235,12 +235,6 @@ max-width: 100%;
     word-break: break-word;
     overflow: auto;
 
-    /* use flex to center content and allow wrapping */
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-
     /* limit overlay max height if needed (optional) */
     max-height: 100%;
 }
@@ -248,7 +242,9 @@ max-width: 100%;
 /* show overlay on hover */
 .thumbnail a:hover span {
     display: flex;
-    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 /* make title and description wrap and use smaller sizes */
