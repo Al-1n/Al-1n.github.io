@@ -56,9 +56,8 @@ Each script demonstrates key SQL Server concepts and operations, from basic quer
 
 ---
 <br/>
-
 # Features
-
+<br/>
 - Organized T-SQL examples by topic (reading data, inserting data, updating data, transactions, stored procedures, etc.)
 - Compatible with **SQL Server** and **VS Code SQL extensions**
 - Tested against the **AdventureWorks** database
