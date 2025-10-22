@@ -1,7 +1,7 @@
 ---
 layout: post
 title: T-SQL Reference Library - AdventureWorks Edition
-description: Collection of **Transact-SQL (T-SQL)** reference scripts
+description: Collection of Transact-SQL (T-SQL) reference scripts
 img: /img/Tsql_Thumb.png
 ---
 
