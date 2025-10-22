@@ -9,6 +9,8 @@ img: /img/Excel_Thumb.png
 
 ![](/img/Excel_icon.png) 
 
+Coming Soon!
+
 <!-- This repository contains a curated collection of **Transact-SQL (T-SQL)** scripts designed for learning, reference, and practice using the **AdventureWorks** sample database.  
 Each script demonstrates key SQL Server concepts and operations, from basic querying and joins to more advanced topics like window functions, stored procedures, and common table expressions (CTEs).
 
