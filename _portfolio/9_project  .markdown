@@ -9,15 +9,13 @@ img: /img/Excel_Thumb.png
 
 ![](/img/Excel_icon.png) 
 
-Coming Soon!
+<!--Coming Soon!
+-->
 
-<!-- This repository contains a curated collection of **Transact-SQL (T-SQL)** scripts designed for learning, reference, and practice using the **AdventureWorks** sample database.  
-Each script demonstrates key SQL Server concepts and operations, from basic querying and joins to more advanced topics like window functions, stored procedures, and common table expressions (CTEs).
+ This repository contains a collection of **Excel workbooks** built to perform **financial statement analysis**.  
+Each workbook focuses on evaluating company performance and financial health through structured templates, formulas, and scenario modeling tools.
 
----
-<br/>
-`Link to the project files:` <a href="https://github.com/Al-1n/T-SQL">github.com/Al-1n/T-SQL</a> 
-
+`Link to the project files:` <a href="https://github.com/Al-1n/Excel">github.com/Al-1n/Excel</a> 
 
 **Requirements**
 
@@ -32,15 +30,15 @@ Each script demonstrates key SQL Server concepts and operations, from basic quer
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky">Microsoft SQL Server (T-SQL)</th>        
+    <th class="tg-0pky">Microsoft Excel</th>        
   </tr>
 </thead>
 <tbody>
   <tr>
-    <th class="tg-0pky">AdventureWorks Database</th>        
+    <th class="tg-0pky">Excel Data Analysis Toolkit</th>        
   </tr>
   <tr>
-    <th class="tg-0pky">Visual Studio Code</th>    
+    <th class="tg-0pky">Built-in Functions and Formulas</th>    
   </tr> 
 </tbody>
 </table>
@@ -48,9 +46,9 @@ Each script demonstrates key SQL Server concepts and operations, from basic quer
 <br/>
 **How to use this project**
 
-1. Clone the repository  
-2. Connect **VS Code** to your SQL Server instance  
-3. Open and execute any `.sql` file against the **AdventureWorks** database  
+1. Clone or download the repository  
+2. Open any workbook in **Excel (desktop or web)**  
+3. Explore financial ratios, perform what-if scenarios, and review comparative industry metrics  
 
 **Contributors**
 
@@ -60,11 +58,11 @@ Each script demonstrates key SQL Server concepts and operations, from basic quer
 <br/>
 # Features
 <br/>
-- Organized T-SQL examples by topic (reading data, inserting data, updating data, transactions, stored procedures, etc.)
-- Compatible with **SQL Server** and **VS Code SQL extensions**
-- Tested against the **AdventureWorks** database
-- Ideal for reference, learning, or interview preparation
--->
+- Structured workbooks for cash flow, profitability, growth, and solvency analysis  
+- Industry spread and ratio comparison templates  
+- NPV and ROI scenario models for investment evaluation  
+- Built entirely with native Excel tools — no macros required 
+
 <p align="center" width="60%">
   <img src="/img/Excel_sample1.png" alt=""><br/>
   <em>Sample Workspace </em> 
