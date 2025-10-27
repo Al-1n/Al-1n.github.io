@@ -2,7 +2,7 @@
 layout: post
 title: Financial Statements Analysis with Power BI
 description: Collection of Power BI Dashboards 
-img: /img/Excel_Thumb.png
+img: /img/PowerBI_Thumb.png
 ---
 
 **About the project**
