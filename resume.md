@@ -20,6 +20,8 @@ Email: [alin.airinei924@gmail.com](mailto:alin.airinei924@gmail.com)  &nbsp;&nbs
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 GitHub: <https://github.com/Al-1n> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Portfolio: <https://al-1n.github.io/portfolio/>
 
+---
+
 <br/>
 
 ### **Summary**
@@ -31,6 +33,8 @@ Proficient in using **SQL, Excel, Power BI, and Python** to transform complex da
 Skilled in developing **interactive dashboards, financial analyses, and predictive models** that support data-driven decision-making.  
 Motivated by curiosity and continuous learning, with a proven ability to combine technical rigor and clear communication to deliver meaningful analytical solutions.
 
+---
+
 <br/>
 
 ### **Education**
@@ -39,9 +43,13 @@ Motivated by curiosity and continuous learning, with a proven ability to combine
 
 *Bachelor of Science in Physics*, **Stony Brook University**
 
+---
+
 <br/>
 
-### **Experience**
+### **Experience**  
+
+<br/>
 
 **Portfolio Projects**
 
@@ -96,11 +104,10 @@ Motivated by curiosity and continuous learning, with a proven ability to combine
 
 <br/>
 
-### **Skills**
+### **Skills and Technologies**  
 
 <br/>
 
-### **Skills and Technologies**  
 
 • **Business Intelligence Tools:** Excel, Power BI, Tableau, Streamlit    
 • **Programming Languages:** Python, SQL, C++, Fortran  
@@ -110,8 +117,11 @@ Motivated by curiosity and continuous learning, with a proven ability to combine
 • **Version Control:** Git
 
 ---
+<br/> 
 
 ### **Relevant Coursework**  
+
+<br/>
 
 **Financial Management Specialization** – Duke University
 
