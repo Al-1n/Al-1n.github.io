@@ -8,9 +8,7 @@ order: 0
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-Hello, I'm Alin Airinei, a physics graduate with a passion for data analysis and a strong desire to contribute to meaningful projects.
-
-What sets me apart is a relentless commitment to continuous learning. I approach challenges with the mindset of a lifelong learner, always eager to expand my skills and stay abreast of the latest technologies.
+Analytical professional specializing in financial and performance analytics using SQL, Excel, and Power BI. Passionate about uncovering insights that improve profitability, efficiency, and data-driven strategy.
 
 
 <br/>
