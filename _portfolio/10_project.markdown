@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Financial Statements Analysis with Power BI
-description: Collection of Power BI Dashboards 
+title: Financial Performance Dashboards with Power BI
+description: Collection of Power BI projects and dashboards 
 img: /img/PowerBI_Thumb.png
 ---
 
@@ -9,13 +9,10 @@ img: /img/PowerBI_Thumb.png
 
 ![](/img/Power_BI_Logo.png) 
 
-Coming Soon!
+This repository contains a collection of **Power BI project files** focused on **financial performance analysis**.  
+Each dashboard provides insights into company profitability, growth, efficiency, capital structure, and investment returns.
 
-<!--
- This repository contains a collection of **Excel workbooks** built to perform **financial statement analysis**.  
-Each workbook focuses on evaluating company performance and financial health through structured templates, formulas, and scenario modeling tools.
-
-`Link to the project files:` <a href="https://github.com/Al-1n/Excel">github.com/Al-1n/Excel</a> 
+`Link to the project files:` <a href="https://github.com/Al-1n/PowerBI">github.com/Al-1n/PowerBI</a>  
 
 **Requirements**
 
@@ -30,15 +27,15 @@ Each workbook focuses on evaluating company performance and financial health thr
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky">Microsoft Excel</th>        
+    <th class="tg-0pky">Microsoft Power BI Desktop</th>        
   </tr>
 </thead>
 <tbody>
   <tr>
-    <th class="tg-0pky">Excel Data Analysis Toolkit</th>        
+    <th class="tg-0pky">DAX and Power Query</th>        
   </tr>
   <tr>
-    <th class="tg-0pky">Built-in Functions and Formulas</th>    
+    <th class="tg-0pky">Excel Data Sources</th>    
   </tr> 
 </tbody>
 </table>
@@ -47,8 +44,8 @@ Each workbook focuses on evaluating company performance and financial health thr
 **How to use this project**
 
 1. Clone or download the repository  
-2. Open any workbook in **Excel (desktop or web)**  
-3. Explore financial ratios, perform what-if scenarios, and review comparative industry metrics  
+2. Open any `.pbix` file in **Power BI Desktop**  
+3. Refresh data connections and explore the dashboards interactively  
 
 **Contributors**
 
@@ -58,10 +55,12 @@ Each workbook focuses on evaluating company performance and financial health thr
 <br/>
 # Features
 <br/>
-- Structured workbooks for cash flow, profitability, growth, and solvency analysis  
-- Industry spread and ratio comparison templates  
-- NPV and ROI scenario models for investment evaluation  
-- Built entirely with native Excel tools — no macros required 
+- Interactive dashboards for profitability, growth, and solvency analysis  
+- ROI and performance comparison visualizations  
+- Integration with Excel and Power Query for flexible data modeling  
+- Built using DAX and Power BI visuals for clean, dynamic reporting  
+
+<!--
 -->
 
 <p align="center" width="60%">
