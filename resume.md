@@ -94,50 +94,13 @@ Motivated by curiosity and continuous learning, with a proven ability to combine
 
 ---
 
-
-**1. Optimizing Gradient Boosting Models for Medical Diagnosis**
-
-• Compared the performance gains from hyperparameter and threshold tuning with Hyperopt, Optuna, and TunedThresoldClassifierCV on Gradient Boosting.
-
-• Improved recall in diabetes diagnosis from 0.64 to 0.89 using gradient boosting models with hyperparameter and threshold optimization.
-
-• Achieved up to 15% increase in F1-scores across XGBoost, LightGBM, and CatBoost models through combined optimization techniques.
-
-• Enhanced AUPRC scores by up to 10.7% for XGBoost and LightGBM models, indicating significant improvement in precision-recall trade-offs for imbalanced data.
-
-• Attained consistent AUROC scores of 0.83 for all three models post-optimization, demonstrating robust classifier performance.
-
-• Technology Used: Python, Streamlit, Plotly, Pandas, NumPy, Geopy, Jupyter Lab.
-
-[Full Report](<https://github.com/Al-1n/Gradient_Boosting_Tuning/blob/main/Docs/GBT_classification_report.pdf>) \| [Project Page](https://al-1n.github.io/portfolio/7_project/)
-
-**2 . SpaceX Launch Records**
-
-• Utilized data science tools to dissect SpaceX's successful business model.
-
-• Comprehensive implementation of typical data analysis and machine learning processes.
-
-• Technology Used: Python, SQL, Pandas, Plotly Dash, Beautiful Soup, Scikit-learn, Folium.
-
-[Full Report](https://github.com/Al-1n/IBM_SpaceX_Capstone/blob/main/SpaceX_Final_Report.pdf) \| [Project Page](https://al-1n.github.io/portfolio/3_project/)
-
-**3. Superconductivity and Quantum Computing**
-
-• Analyzed data from a real-world quantum mechanics experiment involving Josephson junctions.
-
-• Tested and validated the alignment of theoretical predictions against experimental findings.
-
-• Technology Used: Python, Jupyter Lab, Pandas, NumPy, Lmfit, Matplotlib.
-
-[Project Page](https://al-1n.github.io/portfolio/6_project%) \| [Scientific Report](https://github.com/Al-1n/Superconductivity/blob/main/Superconductivity.pdf)
-
 <br/>
 
 ### **Skills**
 
 <br/>
 
-### **Skills and Technologies**
+### **Skills and Technologies**  
 
 • **Business Intelligence Tools:** Excel, Power BI, Tableau, Streamlit    
 • **Programming Languages:** Python, SQL, C++, Fortran  
@@ -148,7 +111,7 @@ Motivated by curiosity and continuous learning, with a proven ability to combine
 
 ---
 
-### **Relevant Coursework**
+### **Relevant Coursework**  
 
 **Financial Management Specialization** – Duke University
 
