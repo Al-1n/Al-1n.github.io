@@ -53,8 +53,6 @@ Motivated by curiosity and continuous learning, with a proven ability to combine
 
 **Portfolio Projects**
 
-<br/>
-
 **1. T-SQL Database Management**
 
 • Restored and explored the AdventureWorks2022 sample database using SQL Server to design and execute complex queries and data transformations.  
@@ -117,6 +115,7 @@ Motivated by curiosity and continuous learning, with a proven ability to combine
 • **Version Control:** Git
 
 ---
+
 <br/> 
 
 ### **Relevant Coursework**  
