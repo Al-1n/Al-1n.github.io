@@ -55,7 +55,7 @@ Motivated by curiosity and continuous learning, with a proven ability to combine
 
 **1. T-SQL Database Management**
 
-• Restored and explored the AdventureWorks2022 sample database using SQL Server to design and execute complex queries and data transformations.  
+• Restored a sample database using SQL Server.  
 • Created reference scripts showcasing core database operations, including joins, subqueries, window functions, stored procedures, and CTEs.  
 • Demonstrated capability in database restoration, management, and query optimization for business data scenarios.  
 
