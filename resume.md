@@ -45,9 +45,10 @@ Data Analyst with a background in Physics and hands-on experience in SQL, Excel,
 
 <br/>
 
----
 
 ### **Skills**
+
+<br/>
 
 • **Analytics and BI Tools:** Excel, Power BI, Tableau, Streamlit    
 • **Programming Languages:** Python, SQL, C++, Fortran  
@@ -62,12 +63,13 @@ Data Analyst with a background in Physics and hands-on experience in SQL, Excel,
 • **Agile Project Management (Google Agile Essentials)** - Scrum, Kanban, iterative development practices  
 
 ---
+<br/>
 
-### **Portfolio Projectsce**  
+### **Portfolio Projects**  
 
 <br/>
 
-**1. T-SQL Database Management - SQL Server | VS Code**
+1. T-SQL Database Management - SQL Server | VS Code
 
 Built a structured reference library of T-SQL queries for the AdventureWorks2022 database.  
 • Developed examples covering joins, aggregations, CTEs, window functions, stored procedures, and transactions  
@@ -94,7 +96,7 @@ Developed Power BI dashboards to analyze company-level financial metrics.
 
 [Project Page](https://al-1n.github.io/portfolio/10_project)
 
-**4. Machine Learning Predictive Models - Python | XGBoost**
+4. Machine Learning Predictive Models - Python | XGBoost
 
 Built and optimized gradient boosting classifiers for early diagnosis and imbalanced datasets.  
 • Improved recall from 0.64 to 0.89 using threshold and hyperparameter optimization  
@@ -119,9 +121,12 @@ Analyzed attrition trends for a mid-sized tech company to support retention effo
 
 ### **Volunteer Experience**
 
-**Volunteer Youth Soccer Coach**
-Huntington, NY
-April 2023 to Present
+<br/>
+
+**Volunteer Youth Soccer Coach**  
+Huntington, NY  
+April 2023 to Present  
+
 
 • Planned and executed practice schedules for two teams, improving player performance through structured, age-appropriate training sessions.  
 • Coordinated tournament logistics, including assembling rosters, raising funds, and managing reimbursements to cover tournament fees.  
