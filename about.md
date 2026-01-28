@@ -8,7 +8,7 @@ order: 0
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-Analytical professional specializing in financial and performance analytics using SQL, Excel, Power BI, and Python. Passionate about uncovering insights that improve profitability, efficiency, and data-driven strategy.
+Analytics professional specializing in financial and performance analytics using SQL, Excel, Power BI, and Python. Passionate about uncovering insights that improve profitability, efficiency, and data-driven strategy.
 
 
 <br/>
