@@ -61,7 +61,7 @@ Each workbook focuses on evaluating company performance and financial health thr
 - Structured workbooks for cash flow, profitability, growth, and solvency analysis  
 - Industry spread and ratio comparison templates  
 - NPV and ROI scenario models for investment evaluation  
-- Built entirely with native Excel tools — no macros required 
+- Built entirely with native Excel tools - no macros required 
 
 <p align="center" width="60%">
   <img src="/img/Excel_sample1.png" alt=""><br/>
