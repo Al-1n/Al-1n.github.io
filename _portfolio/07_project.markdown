@@ -1,25 +1,60 @@
 ---
 layout: post
-title: Optimizing GB Models for Medical Diagnosis
-description: Evaluating Hyperopt, Optuna, and TunedThresholdClassifierCV 
-img: /img/GB_Tuning_Thumb.png
+title: SpaceX Launch Records
+description: Catching Up in the Space Race
+img: /img/spacex1_thumb.jpg
 ---
 
 **About the project**
 
-![](/img/python_icon.png) ![](/img/jupyter_icon.png)
+![](/img/python_icon.png) ![](/img/jupyter_icon.png) ![](/img/folium_logo.png) ![](/img/plotly_icon.png)
 
-This project compared the performance of three gradient boosting algorithms (XGBoost, LightGBM, and CatBoost) on a binary classification task for medical diagnosis. The main focus was on improving prediction performance through hyperparameter and threshold optimization.
+In this project, we utilize Data Science tools to analyze and map the critical components that have defined SpaceX's successful business model, securing its leadership position in the space launch industry.
 
 ---
 
-`Link to the project files:` <a href="https://github.com/Al-1n/Gradient_Boosting_Tuning">github.com/Al-1n/Gradient_Boosting_Tuning</a> 
+<br/>
 
-`Full scientific report:`  <a href="https://github.com/Al-1n/Gradient_Boosting_Tuning/blob/main/Docs/GBT_classification_report.pdf">GBT Classification Report</a>
+`Link to the project files:` <a href="https://github.com/Al-1n/IBM_SpaceX_Capstone/tree/main">SpaceX Launch Records</a> 
+
+
+<html>
+  
+<head>  
+     
+    <style>
+        img {
+            vertical-align: middle;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            padding: 5px;            
+        }
+        img:hover {
+            box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+    </style>
+</head>
+  
+<body>
+    <span>
+        Full report:
+    </span>
+    <a target="_blank" href="https://github.com/Al-1n/IBM_SpaceX_Capstone/blob/master/SpaceX_Final_Report.pdf">
+      <img src="/img/spacex5.png" alt="" style="width:230px">
+    </a>  
+    
+</body>
+  
+</html>
+
+<br/>
+
+---
+
+<br/>
 
 **Requirements**
 
-<style type="text/css">
+ <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -30,157 +65,136 @@ This project compared the performance of three gradient boosting algorithms (XGB
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky">Optuna</th>
-    <th class="tg-0pky">Hyperopt</th>
-    <th class="tg-0pky">LightGBM</th> 
-    <th class="tg-0pky">CatBoost</th>    
+    <th class="tg-0pky">JupyterLab</th>
+    <th class="tg-0pky">Requests</th>
+    <th class="tg-0pky">Pandas</th>    
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">XGBoost</td>
-    <td class="tg-0pky">IpyWidgets</td>
-    <td class="tg-0pky">Imblearn</td> 
-    <th class="tg-0pky">Networkx</th>    
+    <td class="tg-0pky">Numpy</td>
+    <td class="tg-0pky">Beautiful Soup</td>
+    <td class="tg-0pky">Matplotlib</td>    
   </tr>
   <tr>
-    <th class="tg-0pky">CloudPickle</th> 
-    <td class="tg-0pky">Plotly</td>
+    <td class="tg-0pky">Seaborn</td>
     <td class="tg-0pky">SQLAlchemy</td>
-    <td class="tg-0pky">ImageIO</td>    
+    <td class="tg-0pky">Ipython-sql</td>    
   </tr>
   <tr>
-    <th class="tg-0pky">PyWavelets</th> 
-    <td class="tg-0pky">TiffFile</td>
-    <td class="tg-0pky">Pandas</td>
-    <td class="tg-0pky">Numpy</td>    
-  </tr>
-  <tr>
-    <th class="tg-0pky">Seaborn</th> 
-    <td class="tg-0pky">Matplotlib</td>
-    <td class="tg-0pky">Math</td>
-    <td class="tg-0pky">Sklearn</td>    
-  </tr>
-  <tr>
-    <th class="tg-0pky">PyGraphViz</th> 
-    <td class="tg-0pky">IPython</td>
-    <td class="tg-0pky">JupyterLab</td>
-    <td class="tg-0pky"></td>    
+    <td class="tg-0pky">Folium</td>
+    <td class="tg-0pky">Wget</td>
+    <td class="tg-0pky">Scikit-learn</td>    
   </tr>
 </tbody>
-</table>
-      
+</table>      
+
 <br/>
+
 **How to use this project**
 
-The code in these files can be adapted to perform similar tests and comparisons for different datasets and models.  
+The project includes a complete implementation of all the steps typically involved in a data analysis machine learning project (data mining, EDA and preparation, model selection and fine-tuning). Each section can be used individually or together to build on the given analysis or as a starter for a new machine learning pipeline.  
 
-Any environment that can load a python kernel and run jupyter notebooks such as *vs code*, *google collab* or *conda* can be used.
-
+Any environment that can load a python kernel and run jupyter notebooks such as *vs code*, *google collab* or *conda* can be used to run the code once the necessary packages are installed.
 
 **Contributors**
+
+The project workflow and most of the code in the project notebooks were authored by <a href="https://www.linkedin.com/in/joseph-s-50398b136/?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDS0321ENSkillsNetwork26802033-2021-01-01">Joseph Santarcangelo</a>, <a href="https://www.linkedin.com/in/yan-luo-96288783/?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDS0321ENSkillsNetwork26802033-2021-01-01">Yan Luo</a>, <a href="https://www.linkedin.com/in/nayefaboutayoun/?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDS0321ENSkillsNetwork26802033-2021-01-01">Nayef Abou Tayoun</a>, and Lakshmi Holla for the IBM Data Science Certification Capstone Project. 
+
+The project was organized into labs, with each lab corresponding to a step in a typical data science project lifecycle. The program participant was responsible for completing coding tasks, conducting analysis, and writing the final report.
+
+You can read my comprehensive 67-page project report, which combines both technical and non-technical styles to describe each project step and discuss numerous insights from the data analysis, by following this link: <a href="https://github.com/Al-1n/IBM_SpaceX_Capstone/blob/master/SpaceX_Capstone_Project_Final_Report.pdf">Full report</a>. 
 
 <a href="https://www.linkedin.com/in/alin-airinei/">Alin Airinei</a>
 
 ---
 
-<br/>    
-# Data and Challenges
-<br/>    
-The analysis utilizes a popular sample of the Pima Indians Diabetes Database, which presents several challenges:
-- Small sample size
-- Numerous missing measurements 
-- Class imbalance
-
-To address these, the project employs model-based imputations, synthetic sampling for the minority class, and feature selection to refine the dataset.
-
-# Methods
 <br/>
 
-**1. Data Preprocessing:**
-
-- Model-based imputations using LightGBM
-- Feature scaling
-- ADASYN for data augmentation
-- Feature selection with SelectKBest
-- Class weighting
-
-**2. Model Training and Optimization:**
-
-- Baseline models without optimization
-- Hyperparameter optimization using Optuna and Hyperopt
-- Decision threshold optimization with TunedThresholdClassifierCV
- 
-# Performance Analysis
-<br/>
-
-**Recall Performance**
-
-In medical diagnosis, recall (true positive rate) is crucial. Recall scores ranged from 0.64 to 0.89, with significant improvements observed through optimization.
-  
-- **XGBoost:** Highest recall achieved with Opt+Th optimization.
-- **LightGBM:** Similar improvement pattern, with Opt+Th providing the best recall.
-- **CatBoost:** Strong recall even at baseline, with Opt+Th yielding the highest recall.
- 
- <p align="center" width="60%">
-  <img src="/img/recall_bar_plot.png" alt=""><br/>
-  <em>The grouped bar graph shows the recall performance of the three gradient boosting models (XGBoost, LightGBM, and CatBoost) across different optimization methods.
-</em> 
-</p>
-<br/>   
- 
-**F1-Score Performance**
-
-The F1-score balances precision and recall, critical for imbalanced datasets.
-
-- **XGBoost:** Opt+Th optimization significantly improved the F1-score.
-- **LightGBM:** Similar improvement with Opt+Th optimization yielding the highest F1-score.
-- **CatBoost:** Strong baseline performance, with highest F1-score achieved through Opt+Th.
-
-<p align="center" width="60%">
-  <img src="/img/f1_score_bar_plot.png" alt=""><br/>
-  <em>The grouped bar graph shows the F1-score performance of the three gradient boosting models (XGBoost, LightGBM, and CatBoost) across different optimization methods. </em> 
-</p>
-<br/>   
-
-**AUROC and AUPRC**
- 
-**AUROC (Area Under the Receiver Operating Characteristic Curve):**
-  
-- **XGBoost and LightGBM:** High AUROC scores (0.78 to 0.83), with Optuna, Opt+Th, and Hyp+Th optimizers achieving the best results.
-- **CatBoost:** Highest AUROC scores, maintaining around 0.83 with optimizations.
- 
- <p align="center" width="60%">
-  <img src="/img/auroc_line_plot.png" alt=""><br/>
-  <em>The line plot shows the AUROC variation across different optimization methods for the three gradient boosting models. </em> 
-</p>
-<br/>   
- 
-**AUPRC (Area Under the Precision-Recall Curve):**
-
-- **XGBoost:** Scores improved to 0.62 with Optuna and Opt+Th optimizers.
-- **LightGBM:** Highest scores achieved with Optuna and Opt+Th (0.62).
-- **CatBoost:** Leading with an AUPRC of 0.65, even at baseline.
-
-<p align="center" width="60%">
-  <img src="/img/auprc_line_plot.png" alt=""><br/>
-  <em>The line plot shows the AUPRC variation across different optimization methods for the three gradient boosting models.
- </em> 
-</p>
-<br/>   
-
-# Conclusions
-<br/>    
-
-1. Optimization techniques generally improved model performance across all metrics.
-2. CatBoost demonstrated strong performance even with baseline parameters.
-3. XGBoost and LightGBM benefited most from optimization, showing the largest improvements.
-4. For scenarios prioritizing recall, such as medical diagnosis, optimized XGBoost and LightGBM models performed best.
-5. CatBoost consistently outperformed in AUROC and AUPRC, indicating superior overall performance.
-  
-# Future Work
-<br/>      
-
-Further testing is recommended to confirm these findings and explore their applicability to other datasets and domains.
-
+# Background
 <br/>  
+In the rapidly expanding space industry, SpaceX, headquartered in Hawthorne, California, stands as a trailblazer. The company's Falcon 9 rockets are renowned for their punctual payload deliveries to orbit, made possible in part by the innovative reuse of their first-stage rockets. This not only ensures reliability but also substantially reduces the cost of launching payloads into space. SpaceX has even achieved a remarkable record of refurbishing and relaunching the same booster within a mere 27 days.
+
+As the space economy continues to soar, with Bank of America projecting a staggering $2.7 trillion valuation by 2045, the pressure intensifies on competitors to keep up. However, development challenges and high expenses frequently plague rival companies, causing frustrating delays for customers with time-sensitive payload launch schedules. To address this dynamic landscape, numerous industry leaders, including Blue Origin and Boeing, are developing their own reusable launchers.
+
+Using the tools of Data Science, this project aims to unravel key facets of SpaceX's business model, offering insights that potential competitors can leverage in their pursuit of challenging SpaceX's dominance in the industry.
+
+<div style='text-align: center;' class='img_row'>
+    <img class='col two' src='{{ site.baseurl }}/img/spacex2.jpg' alt=''/>
+</div>
+<br/>  
+
+### Some of the insights drawn from the analysis  
+<br/>   
+From the analysis of the flight density for each launch site it was established that the bulk of the
+SpaceX missions are handled at Florida sites with the Cape Canaveral SLC-40 site at the lead followed
+by the Kennedy Space Center.
+
+Building on the above insight we looked at the payload range for each location and confirmed that
+CCAFS SLC-40 and KSC LC-39A share similar payload ranges while the Vandenberg location on the West
+coast does not handle payloads larger than 10000 Kg.
+
+By comparing the success rates of different orbit types it became noticeable that launches following
+a polar trajectory have a strikingly high rate of successful landings. Future investigations need to take a
+more in dept look at the relation between polar trajectories and landing outcomes.
+
+Looking at the frequency of each orbit type we observed that low Earth orbits are by far the bulk of
+the business at the current time, with GTO missions at the higher altitude limit. We also observed a
+shift in frequency between GTO and VLEO with the emergence of the B5 boosters.
+
+By analyzing the payload mass range specific to each orbit we deduced that GTO has a well defined
+range (between 3000 and 7000 Kg) while ISS has the widest range of payloads. The highest payloads,
+corresponding to VLEO orbits might also be explained by the higher capacity of the latest boosters.
+
+<br/>
+### Summary of other insights
+<br/>
+(for a full discussion check the full report following the link above)
+<br/>
+
+* The yearly trend for Falcon 9 booster landing success shows improvement from 2013 to 2020 due to ongoing technology enhancements.
+
+* SpaceX had four unique launch locations, with two referring to the same Cape Canaveral location.
+
+* NASA was SpaceX's main customer during early test flights, emphasizing reusability as a goal.
+
+* For early LEO missions, payloads were notably lighter than the rocket's specifications.
+
+* Flight 20 marked the first true landing of a first-stage Falcon 9 booster.
+
+<div style='text-align: center;' class='img_row'>
+    <img class='col two' src='{{ site.baseurl }}/img/global_detail_Florida.png' alt=''/>    
+</div>
+<div class='col three caption'>
+    Detail showing the Kennedy LC and Cape Canaveral SLC launch sites in Florida. 
+</div>
+<br/>       
+
+### More insights...
+<br/>
+* Identifying booster names for specific payload ranges highlighted technological advancements in Falcon 9 rockets.
+
+* SpaceX attempted to land only 70% of missions, warranting further investigation into factors influencing landing opportunities.
+
+* Block 5 boosters offer the highest payload capacity.
+
+* Drone ship landings were more frequent in early flights, possibly due to safety concerns.
+
+* Proximity analysis underscored the importance of site location near the Equator for launch efficiency and proximity to large bodies of water for safety.
+
+* Decision Tree models demonstrated the highest predictive accuracy among classification models, with future developments benefiting from new data.
+
+<div style='text-align: center;' class='img_row'>
+    <img class='col two' src='{{ site.baseurl }}/img/Confusion.png' alt=''/>    
+</div>
+<div class='col two caption'>
+    Evaluation of the highest performing classification model. 
+</div>
+
+<br/>
+
+<div style='text-align: center;' class='img_row'>
+    <img class='col two' src='{{ site.baseurl }}/img/IBM_Professional_Certificate.png' alt=''/>    
+</div>
+<br/><br/><br/>
+
