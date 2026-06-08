@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DFFS with Python
+title: DFSS with Python
 description: Analyzing the Doppler Free Saturation Spectroscopy of Rubidium using Python
 img: /img/Rb_thumb.jpeg
 ---
